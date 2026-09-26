@@ -420,6 +420,72 @@ Tài tiēxīn le! Wǒ tèbié xǐhuān chī Tàiguó shípǐn, yóuqí shì mán
 
 ---
 
+### บทสนทนาที่ 5: รถแท็กซี่และการเดินทางในเมือง
+
+**สถานการณ์:** ใช้แอป Didi เรียกรถในจีน
+
+---
+
+**สมบัติ:**
+（在手机上用滴滴打车）师傅，我要去上海虹桥站，麻烦走最快的路。我有点赶时间，下午两点有车。
+(Zài shǒujī shàng yòng Dīdī dǎ chē) Shīfu, wǒ yào qù Shànghǎi Hóngqiáo Zhàn, máfan zǒu zuì kuài de lù. Wǒ yǒudiǎn gǎn shíjiān, xiàwǔ liǎng diǎn yǒu chē.
+(ใช้แอป Didi บนโทรศัพท์) คนขับ ผมต้องไปสถานีรถไฟ Shanghai Hongqiao ช่วยไปทางที่เร็วที่สุด ผมรีบนิดนึง บ่ายโมงครึ่งมีรถครับ
+
+**คนขับ - ลา เชา (拉超):**
+好的！我走高架的话，大概35分钟能到，但高峰期可能堵车。你大概几点要到站？
+Hǎo de! Wǒ zǒu gāojiā dehuà, dàgài 35 fēnzhōng néng dào, dàn gāofēng qī kěnéng dǔchē. Nǐ dàgài jǐ diǎn yào dào zhàn?
+ได้ครับ! ถ้าไปทางทางด่วน ประมาณ 35 นาทีถึง แต่ช่วงชั่วโมงเร่งด่วนอาจติดครับ คุณต้องถึงสถานีประมาณกี่โมงครับ?
+
+**สมบัติ:**
+我需要在1:30到站，现在是12:45，应该够时间吗？
+Wǒ xūyào zài 1:30 dào zhàn, xiànzài shì 12:45, yīnggāi gòu shíjiān ma?
+ผมต้องถึงสถานีตอน 1:30 ตอนนี้ 12:45 น่าจะทันเวลาไหมครับ?
+
+**ลา เชา:**
+我尽量开快点，走延安高架，绕过堵点。应该能赶上！你坐稳了，我们出发！
+Wǒ jǐnliàng kāi kuài diǎn, zǒu Yán'ān gāojiā, rào guò dǔ diǎn. Yīnggāi néng gǎn shàng! Nǐ zuò wěn le, wǒmen chūfā!
+ผมจะขับให้เร็วที่สุดเท่าที่ทำได้ ไปทาง Yan'an Expressway เลี่ยงจุดติดรถ น่าจะทัน! นั่งให้มั่น ออกเดินทางแล้ว!
+
+**สมบัติ:**
+谢谢！麻烦你了！对了，我需要开一张发票，可以吗？
+Xièxiè! Máfan nǐ le! Duì le, wǒ xūyào kāi yī zhāng fāpiào, kěyǐ ma?
+ขอบคุณครับ! รบกวนคุณแล้ว! อ้อ ผมต้องขอใบเสร็จด้วย ได้ไหมครับ?
+
+**ลา เชao:**
+可以！滴滴的发票可以在APP里申请，行程结束后，在订单里点"申请发票"，输入您的邮箱，电子发票会发到您邮箱。
+Kěyǐ! Dīdī de fāpiào kěyǐ zài APP lǐ shēnqǐng, xíngchéng jiéshù hòu, zài dìngdān lǐ diǎn "shēnqǐng fāpiào", shūrù nín de yóuxiāng, diànzǐ fāpiào huì fā dào nín yóuxiāng.
+ได้ครับ! ใบเสร็จ Didi สามารถขอในแอปได้ หลังเดินทางเสร็จ ในออร์เดอร์กด "ขอใบเสร็จ" กรอกอีเมลของคุณ ใบเสร็จอิเล็กทรอนิกส์จะส่งไปยังอีเมลคุณครับ
+
+---
+
+### บทสนทนาที่ 6: เช็คอินโรงแรมและบริการ Executive Lounge
+
+**สถานการณ์:** เช็คอินโรงแรมระดับสูงและใช้บริการ Executive Floor
+
+---
+
+**พนักงานโรงแรม - เจิ้ง หลัน (郑兰):**
+您好！欢迎入住上海外滩洲际酒店！请问您是Wiroj先生吗？
+Nín hǎo! Huānyíng rùzhù Shànghǎi Wàitān Zhōujì Jiǔdiàn! Qǐngwèn nín shì Wiroj xiānsheng ma?
+สวัสดีค่ะ! ยินดีต้อนรับสู่ InterContinental Shanghai Bund! ขอทราบว่าคุณคือคุณวิโรจน์ใช่ไหมคะ?
+
+**วิโรจน์:**
+是的，我是Wiroj！我预订了行政楼层的豪华双人房，三晚。
+Shì de, wǒ shì Wiroj! Wǒ yùdìng le xíngzhèng lóucéng de háohuá shuāng rén fáng, sān wǎn.
+ใช่ครับ ผมคือวิโรจน์! ผมจองห้องพักหรูชั้น Executive Floor สำหรับสองท่าน สามคืนครับ
+
+**เจิ้ง หลัน:**
+是的！我查到了您的预订，36楼的行政豪华双人房，入住三晚。作为行政楼层的住客，您可以享受以下专属权益：免费使用36楼的行政酒廊，每天早餐、下午茶和晚间鸡尾酒时间，免费享用。另外，我们还提供独立的快速办理入住服务，今天您是我们的第一位行政客人，特别为您升级到了38楼的江景套间，无需额外费用！
+Shì de! Wǒ chá dào le nín de yùdìng, 36 lóu de xíngzhèng háohuá shuāng rén fáng, rùzhù sān wǎn. Zuòwéi xíngzhèng lóucéng de zhùkè, nín kěyǐ xiǎngshòu yǐxià zhuānshǔ quányì: Miǎnfèi shǐyòng 36 lóu de xíngzhèng jiǔláng, měitiān zǎocān, xiàwǔ chá hé wǎnjiān jīwěi jiǔ shíjiān, miǎnfèi xiǎngyòng. Lìngwài, wǒmen hái tígōng dúlì de kuàisù bànlǐ rùzhù fúwù, jīntiān nín shì wǒmen de dì yī wèi xíngzhèng kèrén, tèbié wèi nín shēngjí dào le 38 lóu de jiāng jǐng tào jiān, wúxū éwài fèiyòng!
+ใช่ค่ะ! ดิฉันพบการจองของคุณแล้ว ห้องหรูคู่ Executive Floor ชั้น 36 เข้าพักสามคืน ในฐานะผู้เข้าพักชั้น Executive คุณสามารถรับสิทธิพิเศษต่อไปนี้ ใช้ Executive Lounge ชั้น 36 ฟรี มื้อเช้า ช่วงบ่าย Afternoon Tea และ Cocktail Time ตอนค่ำ รับฟรีทุกวัน นอกจากนั้น เรามีบริการ Check-in ด่วนแยกด้วย วันนี้คุณเป็นแขก Executive คนแรกของเรา เราอัปเกรดพิเศษให้คุณเป็น River View Suite ชั้น 38 โดยไม่มีค่าใช้จ่ายเพิ่ม!
+
+**วิโรจน์:**
+太棒了！非常感谢！另外，我明天有个早上8点的商务早餐会议，能否安排在行政酒廊的私人包间里？
+Tài bàng le! Fēicháng gǎnxiè! Lìngwài, wǒ míngtiān yǒu gè zǎoshang 8 diǎn de shāngwù zǎocān huìyì, néng fǒu ānpái zài xíngzhèng jiǔláng de sīrén bāo jiān lǐ?
+ยอดเยี่ยมมาก! ขอบคุณมากครับ! นอกจากนั้น พรุ่งนี้ผมมีการประชุมอาหารเช้าธุรกิจเวลา 8 โมง สามารถจัดในห้องส่วนตัวของ Executive Lounge ได้ไหมครับ?
+
+---
+
 ## 🏮 วัฒนธรรม: ระบบ 发票 (Fāpiào) ในจีน
 
 ### 发票 สำคัญแค่ไหน?
