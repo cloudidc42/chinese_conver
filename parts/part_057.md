@@ -286,6 +286,191 @@ Fēicháng hǎo! Zuìhòu yīgè wèntí, guì gōngsī duì yuángōng zhíyè 
 
 ---
 
+### บทสนทนาที่ 4: สัมภาษณ์ด้านเทคนิค (Technical Interview)
+
+**สถานการณ์:** สัมภาษณ์ตำแหน่ง Software Engineer ในบริษัทจีน
+
+---
+
+**ผู้สัมภาษณ์ - ก้าว เฟิง (高丰):**
+你好！今天的技术面试主要考察您的编程能力和系统设计思路。请先说说您最熟悉的编程语言和框架。
+Nǐ hǎo! Jīntiān de jìshù miànshì zhǔyào kǎochá nín de biānchéng nénglì hé xìtǒng shèjì sīlù. Qǐng xiān shuō shuō nín zuì shúxī de biānchéng yǔyán hé kuàngjià.
+สวัสดีครับ! การสัมภาษณ์เชิงเทคนิควันนี้จะประเมินความสามารถการเขียนโปรแกรมและแนวคิดการออกแบบระบบของคุณ กรุณาบอกภาษาโปรแกรมและ Framework ที่คุณคุ้นเคยมากที่สุดก่อนครับ
+
+**ผู้สมัคร - อาทิตย์:**
+您好！我最熟悉Python和Java，在Python方面，我有3年的经验，主要用于数据分析和机器学习项目，使用过TensorFlow、PyTorch和scikit-learn等框架。Java方面，我主要用Spring Boot开发企业级应用，有2年经验。另外我也熟悉SQL和NoSQL数据库，特别是MySQL、PostgreSQL和MongoDB。
+Nín hǎo! Wǒ zuì shúxī Python hé Java, zài Python fāngmiàn, wǒ yǒu 3 nián de jīngyàn, zhǔyào yòng yú shùjù fēnxī hé jīqì xuéxí xiàngmù, shǐyòng guò TensorFlow, PyTorch hé scikit-learn děng kuàngjià. Java fāngmiàn, wǒ zhǔyào yòng Spring Boot kāifā qǐyè jí yìngyòng, yǒu 2 nián jīngyàn. Lìngwài wǒ yě shúxī SQL hé NoSQL shùjùkù, tèbié shì MySQL, PostgreSQL hé MongoDB.
+สวัสดีครับ! ผมคุ้นเคยมากที่สุดกับ Python และ Java ด้าน Python มีประสบการณ์ 3 ปี ใช้หลักๆ ในโครงการวิเคราะห์ข้อมูลและ Machine Learning เคยใช้ TensorFlow, PyTorch และ scikit-learn ด้าน Java ใช้ Spring Boot พัฒนาแอปพลิเคชันระดับองค์กร มีประสบการณ์ 2 ปี นอกจากนั้นคุ้นเคยกับฐานข้อมูล SQL และ NoSQL โดยเฉพาะ MySQL, PostgreSQL และ MongoDB ครับ
+
+**ก้าว เฟิง:**
+很好！请问您如何处理高并发场景？比如说一个电商网站在双十一大促期间的流量峰值。
+Hěn hǎo! Qǐngwèn nín rúhé chǔlǐ gāo bìngfā chǎngjǐng? Bǐrú shuō yīgè diànshāng wǎngzhàn zài shuāng shíyī dà cù qījiān de liúliàng fēng zhí.
+ดีครับ! คุณจัดการกับสถานการณ์ High Concurrency อย่างไรครับ? เช่น เว็บไซต์อีคอมเมิร์ซในช่วงยอดผู้ใช้สูงสุดในเทศกาล Double 11 ครับ
+
+**อาทิตย์:**
+这是个很好的问题！对于高并发场景，我会采用多层次的方案：第一层是CDN和负载均衡，把流量分散到多个服务器；第二层是缓存策略，使用Redis缓存热点数据，减少数据库压力；第三层是数据库读写分离和分库分表；第四层是消息队列，比如RabbitMQ或Kafka，削峰填谷；最后是微服务架构，独立扩展瓶颈服务。在双十一这样的场景，我会提前做压测，确保系统能扛住10倍日常流量。
+Zhè shì gè hěn hǎo de wèntí! Duìyú gāo bìngfā chǎngjǐng, wǒ huì cǎiyòng duō céngcì de fāng'àn: Dì yī céng shì CDN hé fùzài jūnhéng, bǎ liúliàng fēnsàn dào duō gè fúwùqì; Dì èr céng shì huǎncún cèlüè, shǐyòng Redis huǎncún rèdiǎn shùjù, jiǎnshǎo shùjùkù yālì; Dì sān céng shì shùjùkù dú xiě fēnlí hé fēn kù fēn biǎo; Dì sì céng shì xiāoxi duìliè, bǐrú RabbitMQ huò Kafka, xuē fēng tián gǔ; Zuìhòu shì wēi fúwù jiàgòu, dúlì kuòzhǎn píng jǐng fúwù. Zài shuāng shíyī zhèyàng de chǎngjǐng, wǒ huì tíqián zuò yā cè, quèbǎo xìtǒng néng káng zhù 10 bèi rìcháng liúliàng.
+คำถามดีมากครับ! สำหรับสถานการณ์ High Concurrency ผมจะใช้แผนหลายชั้น ชั้นแรกคือ CDN และ Load Balancing กระจายทราฟฟิกไปหลายเซิร์ฟเวอร์ ชั้นสองคือกลยุทธ์ Cache ใช้ Redis แคชข้อมูล Hotspot ลดแรงกดดันฐานข้อมูล ชั้นสามคือการแยก Read/Write ฐานข้อมูลและแบ่งตาราง ชั้นสี่คือ Message Queue เช่น RabbitMQ หรือ Kafka ตัดยอดและเติมช่อง สุดท้ายคือสถาปัตยกรรม Microservices ขยาย Service ที่เป็น Bottleneck อย่างอิสระ ในสถานการณ์อย่าง Double 11 ผมจะทำ Load Testing ล่วงหน้า เพื่อรับรองว่าระบบรับ 10 เท่าของทราฟฟิกปกติได้ครับ
+
+---
+
+### บทสนทนาที่ 5: หลังสัมภาษณ์และรอผล
+
+**สถานการณ์:** โทรถามผลสัมภาษณ์หลังจากรอนาน
+
+---
+
+**ผู้สมัคร - ปรียา:**
+你好，我是上周四来参加面试的Priya，想询问一下面试结果。请问结果出来了吗？
+Nǐ hǎo, wǒ shì shàng zhōu sì lái cānjiā miànshì de Priya, xiǎng xúnwèn yīxià miànshì jiéguǒ. Qǐngwèn jiéguǒ chūlái le ma?
+สวัสดีค่ะ ดิฉันคือ Priya ที่มาสัมภาษณ์วันพฤหัสบดีสัปดาห์ที่แล้ว ต้องการสอบถามผลสัมภาษณ์ ขอทราบว่าผลออกแล้วหรือยังคะ?
+
+**HR - หวัง ฟัง (王芳):**
+Priya，您好！感谢您的耐心等待。我查一下您的面试记录……好的，我这里有记录，您面试的是产品经理职位。
+Priya, nín hǎo! Gǎnxiè nín de nàixīn děngdài. Wǒ chá yīxià nín de miànshì jìlù…… Hǎo de, wǒ zhèlǐ yǒu jìlù, nín miànshì de shì chǎnpǐn jīnglǐ zhíwèi.
+Priya สวัสดีค่ะ! ขอบคุณที่อดทนรอ ดิฉันตรวจสอบบันทึกสัมภาษณ์ของคุณ... โอเค ดิฉันมีบันทึกแล้ว คุณสัมภาษณ์ตำแหน่ง Product Manager ค่ะ
+
+**ปรียา:**
+是的！请问结果怎么样？
+Shì de! Qǐngwèn jiéguǒ zěnmeyàng?
+ใช่ค่ะ! ขอทราบผลเป็นอย่างไรบ้างคะ?
+
+**หวัง ฟัง:**
+我们经过综合评估，非常希望您加入我们团队！我们的HR总监需要和您做最后一轮谈话，主要是薪资和入职时间的确认。请问您这周五有时间来我们办公室吗？
+Wǒmen jīngguò zōnghé pínggū, fēicháng xīwàng nín jiārù wǒmen tuánduì! Wǒmen de HR zǒngjiān xūyào hé nín zuò zuìhòu yī lún tánhuà, zhǔyào shì xīnzī hé rùzhí shíjiān de quèrèn. Qǐngwèn nín zhè zhōu wǔ yǒu shíjiān lái wǒmen bàngōngshì ma?
+เราผ่านการประเมินอย่างครอบคลุมแล้ว ต้องการให้คุณเข้าร่วมทีมของเราอย่างยิ่ง! HR Director ของเราต้องการพูดคุยรอบสุดท้ายกับคุณ หลักๆ คือยืนยันเงินเดือนและวันเริ่มงาน วันศุกร์นี้คุณมีเวลามาสำนักงานของเราไหมคะ?
+
+**ปรียา:**
+太好了！非常感谢！我这周五完全可以！
+Tài hǎo le! Fēicháng gǎnxiè! Wǒ zhè zhōu wǔ wánquán kěyǐ!
+ยอดเยี่ยมมากเลยค่ะ! ขอบคุณมาก! วันศุกร์นี้สะดวกค่ะ!
+
+---
+
+### บทสนทนาที่ 6: ถามเรื่องวัฒนธรรมองค์กร
+
+**สถานการณ์:** ถามเรื่องบรรยากาศการทำงานในช่วงสัมภาษณ์
+
+---
+
+**ผู้สมัคร - วราภรณ์:**
+请问贵公司的工作文化是什么样的？比如说，加班情况怎么样？公司对work-life balance怎么看？
+Qǐngwèn guì gōngsī de gōngzuò wénhuà shì shénme yàng de? Bǐrú shuō, jiābān qíngkuàng zěnmeyàng? Gōngsī duì work-life balance zěnme kàn?
+ขอทราบว่าวัฒนธรรมการทำงานของบริษัทท่านเป็นอย่างไรบ้างคะ? เช่น การทำงานล่วงเวลาเป็นอย่างไร? บริษัทมองเรื่อง Work-Life Balance อย่างไรคะ?
+
+**ผู้จัดการ - หลิน หัว (林华):**
+这是个很好的问题，也是很多候选人关心的。坦白说，我们是一家快节奏的科技公司，在项目冲刺阶段会有加班，但不是强制性的。我们更注重的是工作结果而不是在办公室坐多少小时。公司提供弹性工作时间，核心工作时间是上午10点到下午4点，其他时间可以自己安排。我们也有远程工作的选项，每周可以居家办公两天。
+Zhè shì gè hěn hǎo de wèntí, yě shì hěnduō hòuxuǎn rén guānxīn de. Tǎnbái shuō, wǒmen shì yī jiā kuài jiézòu de kējì gōngsī, zài xiàngmù chōng cì jiēduàn huì yǒu jiābān, dàn bùshì qiángzhì xìng de. Wǒmen gèng zhùzhòng de shì gōngzuò jiéguǒ ér bùshì zài bàngōngshì zuò duōshao xiǎoshí. Gōngsī tígōng tánxìng gōngzuò shíjiān, héxīn gōngzuò shíjiān shì shàngwǔ 10 diǎn dào xiàwǔ 4 diǎn, qítā shíjiān kěyǐ zìjǐ ānpái. Wǒmen yě yǒu yuǎnchéng gōngzuò de xuǎnxiàng, měi zhōu kěyǐ jū jiā bàn gōng liǎng tiān.
+คำถามดีมากเลย และเป็นสิ่งที่ผู้สมัครหลายคนกังวล พูดตรงๆ เราเป็นบริษัทเทคโนโลยีที่ก้าวเร็ว ในช่วง Sprint โครงการจะมีการทำงานล่วงเวลา แต่ไม่บังคับ เราให้ความสำคัญกับผลงานมากกว่าว่านั่งในออฟฟิศกี่ชั่วโมง บริษัทมีเวลาทำงานแบบยืดหยุ่น เวลาทำงานหลักคือ 10 โมงเช้าถึงบ่าย 4 โมง เวลาอื่นจัดการเองได้ เรายังมีตัวเลือก Remote Work อีกด้วย สามารถทำงานจากบ้านได้สองวันต่อสัปดาห์ครับ
+
+---
+
+## 🔊 ประโยคฝึกพูดเพิ่มเติม ชุดที่ 2 (60+ ประโยค)
+
+### กลุ่มที่ 5: วลีตอบคำถามสัมภาษณ์
+1. 我在大学期间曾担任学生会主席。
+   Wǒ zài dàxué qījiān céng dānrèn xuéshēnghuì zhǔxí.
+   ตอนมหาวิทยาลัยผมเคยดำรงตำแหน่งประธานสภานักศึกษา
+
+2. 我有五年的项目管理经验，带领过最多15人的团队。
+   Wǒ yǒu wǔ nián de xiàngmù guǎnlǐ jīngyàn, dàilǐng guò zuì duō 15 rén de tuánduì.
+   ผมมีประสบการณ์บริหารโครงการ 5 ปี เคยนำทีมสูงสุด 15 คน
+
+3. 在我上一份工作中，我成功将客户满意度提升了40%。
+   Zài wǒ shàng yī fèn gōngzuò zhōng, wǒ chénggōng jiāng kèhù mǎnyì dù tíshēng le 40%.
+   ในงานก่อนหน้า ผมประสบความสำเร็จในการยกระดับความพึงพอใจลูกค้า 40%
+
+4. 我曾经处理过一个非常困难的项目，最终超额完成了指标。
+   Wǒ céng jīng chǔlǐ guò yīgè fēicháng kùnnán de xiàngmù, zuìzhōng chāo'é wánchéng le zhǐbiāo.
+   ผมเคยจัดการโครงการที่ยากมาก สุดท้ายบรรลุเกินเป้าหมาย
+
+5. 我认为我的核心竞争力是跨文化沟通能力。
+   Wǒ rènwéi wǒ de héxīn jìngzhēng lì shì kuà wénhuà gōutōng nénglì.
+   ผมคิดว่าความสามารถแข่งขันหลักของผมคือทักษะการสื่อสารข้ามวัฒนธรรม
+
+6. 我是一个非常注重细节的人，但同时也能看清大局。
+   Wǒ shì yīgè fēicháng zhùzhòng xìjié de rén, dàn tóngshí yě néng kàn qīng dàjú.
+   ผมเป็นคนที่ใส่ใจรายละเอียดมาก แต่ขณะเดียวกันก็มองภาพรวมได้ชัดเจน
+
+7. 我对新技术保持高度的学习热情。
+   Wǒ duì xīn jìshù bǎochí gāodù de xuéxí rèqíng.
+   ผมรักษาความกระตือรือร้นในการเรียนรู้เทคโนโลยีใหม่ไว้สูง
+
+8. 我希望能在一个鼓励创新的环境中成长。
+   Wǒ xīwàng néng zài yīgè gǔlì chuàngxīn de huánjìng zhōng chéngzhǎng.
+   ผมหวังว่าจะเติบโตในสภาพแวดล้อมที่ส่งเสริมนวัตกรรม
+
+9. 我擅长在压力下保持冷静并解决问题。
+   Wǒ shàncháng zài yālì xià bǎochí lěngjìng bìng jiějué wèntí.
+   ผมถนัดในการรักษาความสงบและแก้ไขปัญหาภายใต้ความกดดัน
+
+10. 请问公司有员工培训和职业发展计划吗？
+    Qǐngwèn gōngsī yǒu yuángōng péixùn hé zhíyè fāzhǎn jìhuà ma?
+    บริษัทมีแผนการฝึกอบรมพนักงานและการพัฒนาอาชีพไหมครับ?
+
+11. 贵公司的团队文化是怎样的？
+    Guì gōngsī de tuánduì wénhuà shì zěnyàng de?
+    วัฒนธรรมทีมของบริษัทท่านเป็นอย่างไรครับ?
+
+12. 请问晋升通道是怎么样的？
+    Qǐngwèn jìnshēng tōngdào shì zěnmeyàng de?
+    เส้นทางการเลื่อนตำแหน่งเป็นอย่างไรครับ?
+
+13. 我在语言方面的优势是中泰英三语流利。
+    Wǒ zài yǔyán fāngmiàn de yōushì shì Zhōng-Tài-Yīng sān yǔ liúlì.
+    ข้อได้เปรียบด้านภาษาของผมคือพูดได้คล่องสามภาษา จีน ไทย อังกฤษ
+
+14. 我习惯用数据和结果说话，而不是靠感觉。
+    Wǒ xíguàn yòng shùjù hé jiéguǒ shuōhuà, ér bùshì kào gǎnjué.
+    ผมเคยชินกับการพูดด้วยข้อมูลและผลลัพธ์ ไม่ใช่อาศัยความรู้สึก
+
+15. 我期待加入一个充满活力的团队！
+    Wǒ qīdài jiārù yīgè chōngmǎn huólì de tuánduì!
+    ผมตั้งตารอที่จะเข้าร่วมทีมที่เต็มไปด้วยพลังงาน!
+
+### กลุ่มที่ 6: วลีสัมภาษณ์ขั้นสูง
+16. 我擅长建立战略合作关系和业务拓展。
+    Wǒ shàncháng jiànlì zhànlüè hézuò guānxi hé yèwù tuòzhǎn.
+    ผมถนัดในการสร้างความสัมพันธ์ความร่วมมือเชิงกลยุทธ์และขยายธุรกิจ
+
+17. 在我上一份工作中，我开拓了3个新市场。
+    Zài wǒ shàng yī fèn gōngzuò zhōng, wǒ kāituò le 3 gè xīn shìchǎng.
+    ในงานก่อนหน้า ผมเปิดตลาดใหม่ 3 แห่ง
+
+18. 我有丰富的B2B销售经验，擅长大客户开发。
+    Wǒ yǒu fēngfù de B2B xiāoshòu jīngyàn, shàncháng dà kèhù kāifā.
+    ผมมีประสบการณ์การขาย B2B มากมาย ถนัดในการพัฒนาลูกค้ารายใหญ่
+
+19. 我对贵公司的产品和行业非常了解，做了充分的准备。
+    Wǒ duì guì gōngsī de chǎnpǐn hé hángyè fēicháng liǎojiě, zuò le chōngfèn de zhǔnbèi.
+    ผมเข้าใจสินค้าและอุตสาหกรรมของบริษัทท่านเป็นอย่างดี เตรียมตัวมาอย่างพร้อมเพรียง
+
+20. 如果被录用，我打算在第一个月深入了解公司情况。
+    Rúguǒ bèi lùyòng, wǒ dǎsuàn zài dì yī gè yuè shēnrù liǎojiě gōngsī qíngkuàng.
+    ถ้าได้รับการคัดเลือก ผมวางแผนจะทำความเข้าใจสถานการณ์บริษัทอย่างลึกซึ้งในเดือนแรก
+
+21. 我能在一个月内完成入职培训并开始独立工作。
+    Wǒ néng zài yī gè yuè nèi wánchéng rùzhí péixùn bìng kāishǐ dúlì gōngzuò.
+    ผมสามารถทำการฝึกอบรมเข้างานให้เสร็จและเริ่มทำงานอิสระได้ภายในหนึ่งเดือน
+
+22. 我的长期目标是成为一名出色的商业领袖。
+    Wǒ de cháng qī mùbiāo shì chéngwéi yī míng chūsè de shāngyè lǐngxiù.
+    เป้าหมายระยะยาวของผมคือการเป็นผู้นำธุรกิจที่โดดเด่น
+
+23. 我非常欣赏贵公司的企业文化和价值观。
+    Wǒ fēicháng xīnshǎng guì gōngsī de qǐyè wénhuà hé jiàzhíguān.
+    ผมชื่นชมวัฒนธรรมองค์กรและค่านิยมของบริษัทท่านอย่างยิ่ง
+
+24. 我相信我的背景和经验与这个职位非常匹配。
+    Wǒ xiāngxìn wǒ de bèijǐng hé jīngyàn yǔ zhège zhíwèi fēicháng pǐpèi.
+    ผมเชื่อว่าพื้นหลังและประสบการณ์ของผมตรงกับตำแหน่งนี้มาก
+
+25. 感谢今天的面试机会，我真的非常期待！
+    Gǎnxiè jīntiān de miànshì jīhuì, wǒ zhēn de fēicháng qīdài!
+    ขอบคุณโอกาสสัมภาษณ์วันนี้ ผมตั้งตารอจริงๆ!
+
+---
+
 ## 🏮 วัฒนธรรมการสัมภาษณ์งานในจีน
 
 ### ข้อควรรู้ก่อนสัมภาษณ์:
