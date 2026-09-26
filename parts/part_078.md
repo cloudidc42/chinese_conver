@@ -298,4 +298,235 @@
 朝代 (cháodài) | 统一 (tǒngyī) | 改革开放 (gǎigé kāifàng) | 丝绸之路 (Sīchóu Zhī Lù) | 不平等条约 (bù píngděng tiáoyuē) | 鸦片战争 (Yāpiàn Zhànzhēng) | 百年屈辱 (bǎi nián qūrǔ)
 
 ---
-*Part 078 จบสมบูรณ์ | ต่อไป Part 079: ปรัชญาและจริยธรรมจีน*
+
+## 📚 คำศัพท์ประวัติศาสตร์เพิ่มเติม (60+ คำ)
+
+### ตารางที่ 5: สงครามและการทหาร (War & Military) 
+
+| คำศัพท์จีน | Pinyin | ความหมาย |
+|-----------|--------|-----------|
+| 战争 | Zhànzhēng | War |
+| 军队 | Jūnduì | Army |
+| 将领 | Jiānglǐng | Military Commander |
+| 战役 | Zhànyì | Battle/Campaign |
+| 攻城 | Gōng chéng | Siege of City |
+| 守城 | Shǒu chéng | Defend City |
+| 粮草 | Liáng cǎo | Food and Fodder (Military Supplies) |
+| 援军 | Yuánjūn | Reinforcement |
+| 伤亡 | Shāngyáng | Casualties |
+| 凯旋 | Kǎixuán | Triumphant Return |
+| 投降 | Tóuxiáng | Surrender |
+| 休战 | Xiūzhàn | Ceasefire |
+| 条约 | Tiáoyuē | Treaty |
+| 割地 | Gē dì | Cession of Territory |
+| 赔款 | Péikuǎn | War Reparations |
+
+### ตารางที่ 6: ราชสำนักและการปกครอง
+
+| คำศัพท์จีน | Pinyin | ความหมาย |
+|-----------|--------|-----------|
+| 皇帝 | Huángdì | Emperor |
+| 皇后 | Huánghòu | Empress |
+| 太子 | Tàizǐ | Crown Prince |
+| 大臣 | Dàchén | High Official/Minister |
+| 宰相 | Zǎixiàng | Prime Minister (Imperial era) |
+| 科举制度 | Kējǔ zhìdù | Imperial Examination System |
+| 礼制 | Lǐzhì | Ritual System |
+| 宦官 | Huànguān | Eunuch |
+| 册封 | Cèfēng | Imperial Investiture |
+| 朝贡 | Cháogòng | Tributary System |
+| 天子 | Tiānzǐ | Son of Heaven (Emperor's title) |
+| 天命 | Tiānmìng | Mandate of Heaven |
+| 禅让 | Shànràng | Abdication (Peaceful transfer) |
+| 篡位 | Cuànwèi | Usurpation of Throne |
+| 灭国 | Miè guó | Destruction of a State |
+
+### ตารางที่ 7: สมัยใหม่และการปฏิวัติ
+
+| คำศัพท์จีน | Pinyin | ความหมาย |
+|-----------|--------|-----------|
+| 辛亥革命 | Xīnhài Gémìng | Xinhai Revolution (1911) |
+| 五四运动 | Wǔ Sì Yùndòng | May Fourth Movement (1919) |
+| 长征 | Chángyán | The Long March |
+| 抗日战争 | Kàng Rì Zhànzhēng | Anti-Japanese War (1937-1945) |
+| 国共内战 | Guó Gòng Nèizhàn | Chinese Civil War |
+| 土地改革 | Tǔdì gǎigé | Land Reform |
+| 大跃进 | Dà Yuè Jìn | Great Leap Forward |
+| 文化大革命 | Wénhuà Dà Gémìng | Cultural Revolution |
+| 改革开放 | Gǎigé kāifàng | Reform and Opening Up |
+| 天安门事件 | Tiān'ānmén Shìjiàn | Tiananmen Incident |
+| 香港回归 | Xiānggǎng huíguī | Hong Kong Handover |
+| 一国两制 | Yī guó liǎng zhì | One Country Two Systems |
+| 百年屈辱 | Bǎi nián qūrǔ | Century of Humiliation |
+| 中华人民共和国 | Zhōnghuá Rénmín Gònghéguó | People's Republic of China |
+| 开国大典 | Kāiguó Dà Diǎn | Founding Ceremony (1949) |
+
+### ตารางที่ 8: ราชวงศ์ฮั่นและยุคคลาสสิก
+
+| คำศัพท์จีน | Pinyin | ความหมาย |
+|-----------|--------|-----------|
+| 汉武帝 | Hàn Wǔdì | Emperor Wu of Han |
+| 班超 | Bān Chāo | Ban Chao (explorer) |
+| 张骞 | Zhāng Qiān | Zhang Qian (Silk Road envoy) |
+| 司马迁 | Sīmǎ Qiān | Sima Qian (Historian) |
+| 史记 | Shǐjì | Records of the Grand Historian |
+| 儒家思想 | Rújiā sīxiǎng | Confucian Thought |
+| 独尊儒术 | Dú zūn Rú shù | Promote Confucianism Exclusively |
+| 察举制 | Chájǔ zhì | Recommendation System (for officials) |
+| 边塞诗 | Biānsài shī | Frontier Poetry |
+| 丝绸之路 | Sīchóu Zhī Lù | Silk Road |
+| 西域 | Xīyù | Western Regions |
+| 汉字 | Hànzì | Chinese Characters |
+| 造纸术 | Zào zhǐ shù | Papermaking |
+| 四大发明 | Sì dà fāmíng | Four Great Inventions |
+| 指南针 | Zhǐnánzhēn | Compass |
+
+---
+
+## 💬 บทสนทนาประวัติศาสตร์เพิ่มเติม
+
+### บทสนทนาที่ 9: ราชวงศ์ฮั่นและเส้นทางสายไหม (In-depth)
+
+**历史教授 (Lìshǐ jiàoshòu):** 我们今天深入探讨汉朝的政治制度与丝绸之路的开拓。汉武帝刘彻是中国历史上最具雄才大略的帝王之一，他在位期间大破匈奴，奠定了汉朝的长治久安基础。
+Wǒmen jīntiān shēnrù tàntǎo Hàn cháo de zhèngzhì zhìdù yǔ Sīchóu Zhī Lù de kāituò. Hàn Wǔdì Liú Chè shì Zhōngguó lìshǐ shàng zuì jù xióng cái dà lüè de dì wáng zhī yī, tā zàiwèi qījiān dà pò Xiōngnú, diàndìng le Hàn cháo de chángzhì jiǔ'ān jīchǔ.
+(Professor: วันนี้เราสำรวจเชิงลึกถึงระบบการเมืองของราชวงศ์ฮั่นและการบุกเบิกเส้นทางสายไหม จักรพรรดิฮั่นอู่ติ้ง หลิวเชอ เป็นหนึ่งในกษัตริย์ที่มีความสามารถและกลยุทธ์ยิ่งใหญ่ที่สุดในประวัติศาสตร์จีน ในรัชสมัยของพระองค์ ทรงตีทัพซงหนูแตกพ่าย วางรากฐานความมั่นคงยาวนานของราชวงศ์ฮั่น)
+
+**学生 (Xuésheng):** 请问张骞出使西域对中国历史有什么深远的影响？
+Qǐngwèn Zhāng Qiān chū shǐ xīyù duì Zhōngguó lìshǐ yǒu shénme shēnyuǎn de yǐngxiǎng?
+(Student: ขอถามว่าการที่ Zhang Qian เดินทางสู่ดินแดนตะวันตกมีผลกระทบลึกซึ้งอย่างไรต่อประวัติศาสตร์จีน)
+
+**历史教授:** 张骞两次出使西域，意义极其深远。第一，政治军事层面：他的外交使命促成了汉朝与西域各国建立同盟关系，形成对匈奴的战略包围；第二，经济文化层面：他的探索开辟了丝绸之路，这条路不仅仅是商路，更是文化传播之路——中国的丝绸、瓷器、造纸术、火药从这里传向西方，佛教、葡萄、棉花从西方来到中国；第三，地理知识层面：他带回的地理信息大幅扩展了汉朝对世界的认知，司马迁在《史记》中详细记载了他的经历，这成为中国最早的西方地理文献之一。
+Zhāng Qiān liǎng cì chū shǐ xīyù, yìyì jíqí shēnyuǎn. Dì yī, zhèngzhì jūnshì céngmiàn: tā de wàijiāo shǐmìng cùchéngle Hàn cháo yǔ xīyù gè guó jiànlì tóngméng guānxi, xíngchéng duì Xiōngnú de zhànlüè bāowéi; Dì èr, jīngjì wénhuà céngmiàn: tā de tànsuǒ kāipìle Sīchóu Zhī Lù; Dì sān, dìlǐ zhīshi céngmiàn: tā dài huí de dìlǐ xìnxī dàfú kuòzhǎnle Hàn cháo duì shìjiè de rènzhī.
+(Professor: Zhang Qian เดินทางสู่ดินแดนตะวันตกสองครั้ง ความสำคัญลึกซึ้งมาก ประการที่หนึ่ง ด้านการเมืองและการทหาร: ภารกิจทางการทูตของเขาส่งเสริมการก่อตั้งพันธมิตรของราชวงศ์ฮั่นกับประเทศต่างๆ ทางตะวันตก ประการที่สอง ด้านเศรษฐกิจและวัฒนธรรม: การสำรวจของเขาเปิดเส้นทางสายไหม ไม่ใช่แค่เส้นทางการค้า แต่เป็นเส้นทางแพร่กระจายวัฒนธรรม ประการที่สาม ด้านความรู้ภูมิศาสตร์: ข้อมูลที่เขานำกลับมาขยายความรับรู้โลกของราชวงศ์ฮั่นอย่างมีนัยสำคัญ)
+
+---
+
+### บทสนทนาที่ 10: ยุคสาธารณรัฐจีนและการปฏิวัติ 1911
+
+**纪录片旁白 (Jìlùpiàn pángbái — Documentary Narrator):** 1911年10月10日，武昌起义爆发，这一天后来被定为"辛亥革命"的开端，也成为中华民国的国庆日，即"双十节"。
+1911 nián 10 yuè 10 rì, Wǔchāng Qǐyì bàofā, zhè yī tiān hòulái bèi dìng wéi "Xīnhài Gémìng" de kāiduān, yě chénwéi Zhōnghuá Mínguó de guóqìng rì, jí "Shuāng Shí Jié".
+(Narrator: วันที่ 10 ตุลาคม ค.ศ. 1911 การลุกฮือที่อู่ชางปะทุขึ้น วันนี้ต่อมาถูกกำหนดเป็นจุดเริ่มต้นของ "การปฏิวัติซินไห่" และกลายเป็นวันชาติของสาธารณรัฐจีน หรือ "เทศกาลสองสิบ")
+
+**孙中山的演说 (Sūn Zhōngshān de yǎnshuō — Sun Yat-sen's Speech excerpt):** 余致力国民革命，凡四十年，其目的在求中国之自由平等。积四十年之经验，深知欲达到此目的，必须唤起民众，及联合世界上以平等待我之民族，共同奋斗。
+Yú zhìlì guómín gémìng, fán sìshí nián, qí mùdì zài qiú Zhōngguó zhī zìyóu píngděng. Jī sìshí nián zhī jīngyàn, shēn zhī yù dádào cǐ mùdì, bìxū huànqǐ mínzhòng, jí liánhé shìjiè shàng yǐ píngděng dài wǒ zhī mínzú, gòng tóng fèndòu.
+(คำปราศรัยของซุนยัตเซ็น: "ข้าพเจ้าทุ่มเทเพื่อการปฏิวัติแห่งชาติมาสี่สิบปี เพื่อแสวงหาเสรีภาพและความเท่าเทียมของจีน จากประสบการณ์สี่สิบปี รู้ลึกว่าเพื่อบรรลุเป้าหมายนี้ ต้องปลุกประชาชน และรวมมือกับชาติที่ปฏิบัติต่อเราอย่างเท่าเทียม ต่อสู้ร่วมกัน")
+
+**历史学者 (Lìshǐ xuézhě):** 辛亥革命推翻了清朝统治，结束了长达两千多年的帝制，建立了亚洲第一个共和国。然而，革命的胜利果实并未能真正为广大人民所享有。袁世凯窃取了革命成果，军阀割据局面随之而来，中国陷入了长达数十年的战乱与动荡之中。
+Xīnhài Gémìng tuīfānle Qīng cháo tǒngzhì, jiéshùle chángdá liǎng qiān duō nián de dì zhì, jiànlìle Yàzhōu dì yī gè gònghéguó. Rán'ér, gémìng de shènglì guǒshí bìng wèi néng zhēnzhèng wéi guǎngdà rénmín suǒ xiǎngyǒu. Yuán Shìkǎi qiè qǔle gémìng chéngguǒ, jūnfá gē jù júmiàn suízhī ér lái.
+(นักประวัติศาสตร์: การปฏิวัติซินไห่โค่นล้มการปกครองของราชวงศ์ชิง ยุติระบบจักรพรรดิที่ยาวนานกว่าสองพันปี และก่อตั้งสาธารณรัฐแรกของเอเชีย แต่ผลของชัยชนะการปฏิวัติไม่ได้ถูกเสวยสิทธิ์โดยประชาชนส่วนใหญ่อย่างแท้จริง Yuan Shikai ยักยอกผลของการปฏิวัติ ตามมาด้วยยุคขุนศึกแบ่งแยกดินแดน จีนตกอยู่ในสงครามและความวุ่นวายนานหลายสิบปี)
+
+---
+
+### บทสนทนาที่ 11: การปฏิวัติวัฒนธรรม (Cultural Revolution 1966-1976)
+
+**亲历者回忆 (Qīnlì zhě huíyì — Eyewitness Account):** 文化大革命是我一生中最难以磨灭的记忆。1966年，毛主席发动了这场运动，号召"破四旧"——旧思想、旧文化、旧风俗、旧习惯。我父亲是一位中学老师，因为书架上有几本古典文学作品，被认为是"走资本主义道路当权派"，被拉上批斗台批判。
+Wénhuà Dà Gémìng shì wǒ yīshēng zhōng zuì nányǐ mómiè de jìyì. 1966 nián, Máo Zhǔxí fādòng le zhè chǎng yùndòng, hàozhào "pò sì jiù"—— jiù sīxiǎng, jiù wénhuà, jiù fēngsú, jiù xíguàn. Wǒ fùqīn shì yī wèi zhōngxué lǎoshī, yīnwèi shūjià shàng yǒu jǐ běn gǔdiǎn wénxué zuòpǐn, bèi rènwéi shì "zǒu zīběn zhǔyì dàolù dāngquán pài", bèi lā shàng pīdòu tái pīpàn.
+(คำให้การของผู้ผ่านเหตุการณ์: การปฏิวัติวัฒนธรรมเป็นความทรงจำที่ลบไม่ออกตลอดชีวิต ปี 1966 ประธานเหมาริเริ่มการเคลื่อนไหวนี้ ประกาศให้ "ทำลายสี่เก่า" — ความคิดเก่า วัฒนธรรมเก่า ประเพณีเก่า นิสัยเก่า พ่อของฉันเป็นครูมัธยม เพราะมีหนังสือวรรณคดีคลาสสิกไม่กี่เล่มบนชั้น ถูกถือว่าเป็น "ผู้มีอำนาจเดินตามทุนนิยม" ถูกลากขึ้นเวทีวิจารณ์)
+
+**历史学者 (Lìshǐ xuézhě):** 文化大革命持续了整整十年，对中国社会造成了难以估量的损失。学校停课，知识分子下放农村接受"再教育"，无数文化遗产遭到破坏，全国大约有150万到200万人在运动中死亡，数千万人受到迫害。
+Wénhuà Dà Gémìng chíxùle zhěngzhěng shí nián, duì Zhōngguó shèhuì zàochéngle nányǐ gūliàng de sǔnshī. Xuéxiào tíng kè, zhīshí fèn zǐ xiàfàng nóngcūn jiēshòu "zài jiàoyù", wúshù wénhuà yíchǎn zāodào pòhuài, quánguó dàyuē yǒu 150 wàn dào 200 wàn rén zài yùndòng zhōng sǐwáng.
+(นักประวัติศาสตร์: การปฏิวัติวัฒนธรรมกินเวลาครบสิบปี สร้างความสูญเสียที่ยากจะประมาณค่าต่อสังคมจีน โรงเรียนปิดทำการ ปัญญาชนถูกส่งไปชนบทเพื่อรับ "การศึกษาซ้ำ" มรดกทางวัฒนธรรมนับไม่ถ้วนถูกทำลาย ทั่วประเทศมีผู้เสียชีวิตประมาณ 1.5-2 ล้านคน หลายสิบล้านคนถูกข่มเหง)
+
+**记者 (Jìzhě):** 文革结束后，中国是如何"拨乱反正"的？
+Wén Gé jiéshù hòu, Zhōngguó shì rúhé "bō luàn fǎn zhèng" de?
+(นักข่าว: หลังการปฏิวัติวัฒนธรรมสิ้นสุด จีนฟื้นฟูกลับสู่สภาวะปกติอย่างไร)
+
+**历史学者:** 1976年毛泽东逝世后，"四人帮"被逮捕，文革宣告结束。邓小平的复出是历史的转折点。1978年，他主导召开了具有历史意义的十一届三中全会，确立了"改革开放"的基本路线，中国由此进入了一个全新的发展时代。在文革中遭受迫害的人们陆续获得平反昭雪，知识分子重新获得应有的社会地位，恢复高考也成为无数青年改变命运的机遇。
+1976 nián Máo Zédōng shìshì hòu, "Sì Rén Bāng" bèi dàibǔ, Wén Gé xuāngào jiéshù. Dèng Xiǎopíng de fùchū shì lìshǐ de zhuǎnzhédiǎn. 1978 nián, tā zhǔdǎo zhàokāi le jùyǒu lìshǐ yìyì de Shí Yī Jiè Sān Zhōng Quánhuì, quèlìle "gǎigé kāifàng" de jīběn lùxiàn.
+(นักประวัติศาสตร์: หลังการสิ้นพระชนม์ของ Mao Zedong ปี 1976 "แก๊งสี่คน" ถูกจับกุม การปฏิวัติวัฒนธรรมประกาศสิ้นสุด การกลับมาของเติ้งเสี่ยวผิงเป็นจุดหักเหของประวัติศาสตร์ ปี 1978 เขานำการประชุมใหญ่ครั้งที่ 3 ของสมัยที่ 11 ที่มีความหมายทางประวัติศาสตร์ กำหนดแนวทางพื้นฐาน "การปฏิรูปและเปิดประตู" จีนจึงเข้าสู่ยุคพัฒนาใหม่)
+
+---
+
+### บทสนทนาที่ 12: สงครามฝิ่นและ "ศตวรรษแห่งความอัปยศ"
+
+**大学生甲 (Dàxuéshēng jiǎ):** 今天我们的历史课讨论鸦片战争，能介绍一下鸦片战争爆发的根本原因吗？
+Jīntiān wǒmen de lìshǐ kè tǎolùn Yāpiàn Zhànzhēng, néng jièshào yīxià Yāpiàn Zhànzhēng bàofā de gēnběn yuányīn ma?
+(นักศึกษา A: วันนี้ชั้นเรียนประวัติศาสตร์เราพูดถึงสงครามฝิ่น ช่วยแนะนำสาเหตุพื้นฐานที่สงครามฝิ่นปะทุได้ไหม)
+
+**教授 (Jiàoshòu):** 鸦片战争的根本原因是英国工业革命后急需扩大海外市场，而清朝的闭关锁国政策阻碍了这一需求。直接导火索是中英贸易中的"贸易逆差"问题——英国通过向中国走私鸦片来平衡贸易赤字，清朝官员林则徐在广州虎门销烟，英国以此为借口发动战争。
+Yāpiàn Zhànzhēng de gēnběn yuányīn shì Yīngguó gōngyè gémìng hòu jí xū kuòdà hǎiwài shìchǎng, ér Qīng cháo de bì guān suǒ guó zhèngcè zǔ'àile zhè yī xūqiú. Zhíjiē dǎohuǒ suǒ shì Zhōng Yīng màoyì zhōng de "màoyì nì chā" wèntí—— Yīngguó tōngguò xiàng Zhōngguó zǒusī yāpiàn lái pínghéng màoyì chìzì. Qīng cháo guānyuán Lín Zéxú zài Guǎngzhōu Hǔmén xiāo yān, Yīngguó yǐ cǐ wéi jièkǒu fādòng zhànzhēng.
+(ศาสตราจารย์: สาเหตุพื้นฐานของสงครามฝิ่นคือหลังการปฏิวัติอุตสาหกรรม อังกฤษต้องการขยายตลาดต่างประเทศอย่างเร่งด่วน แต่นโยบายปิดประตูของราชวงศ์ชิงขัดขวางความต้องการนี้ ชนวนโดยตรงคือปัญหา "การขาดดุลการค้า" — อังกฤษลักลอบนำเข้าฝิ่นเพื่อสมดุลการขาดดุล เจ้าหน้าที่ชิง Lin Zexu เผาทำลายฝิ่นที่ Humen กว่างโจว อังกฤษใช้เรื่องนี้เป็นข้ออ้างทำสงคราม)
+
+**大学生乙 (Dàxuéshēng yǐ):** 《南京条约》签订后，对中国有哪些深远影响？
+"Nánjīng Tiáoyuē" qiāndìng hòu, duì Zhōngguó yǒu nǎxiē shēnyuǎn yǐngxiǎng?
+(นักศึกษา B: หลังลงนาม "สนธิสัญญานานจิง" มีผลกระทบลึกซึ้งอย่างไรต่อจีน)
+
+**教授:** 《南京条约》是中国近代史上第一个不平等条约，影响极为深远。第一，中国割让香港岛给英国，开创了领土主权遭受侵害的先例；第二，中国开放五个通商口岸——广州、厦门、福州、宁波、上海，这些城市由此快速发展成近代商业中心；第三，中国向英国支付2100万银元的赔款；第四，取消广州十三行的垄断，英商可以在各口岸与任何中国商人交易；第五，最重要的是，这一战争标志着中国从"天朝上国"的自我认知中猛然惊醒，一系列屈辱条约的签订构成了后人所称的"百年屈辱"的开端。
+"Nánjīng Tiáoyuē" shì Zhōngguó jìndài shǐ shàng dì yī gè bù píngděng tiáoyuē, yǐngxiǎng jí wéi shēnyuǎn. Dì yī, Zhōngguó gē ràng Xiānggǎng dǎo gěi Yīngguó; Dì èr, Zhōngguó kāifàng wǔ gè tōngshāng kǒu àn; Dì sān, Zhōngguó xiàng Yīngguó zhīfù 2100 wàn yín yuán de péikuǎn; Dì wǔ, zuì zhòng yào de shì, zhè yī zhànzhēng biāozhì zhe Zhōngguó cóng "tiān cháo shàng guó" de zìwǒ rènzhī zhōng měngrán jīngxǐng.
+(ศาสตราจารย์: "สนธิสัญญานานจิง" เป็นสนธิสัญญาอสมมาตรฉบับแรกในประวัติศาสตร์จีนสมัยใหม่ มีผลกระทบลึกซึ้งมาก ประการที่หนึ่ง จีนยกเกาะฮ่องกงให้อังกฤษ สร้างบรรทัดฐานการรุกรานอธิปไตยดินแดน ประการที่สอง จีนเปิด 5 ท่าเรือค้าขาย ประการที่สาม จีนจ่ายค่าปฏิกรรมสงคราม 21 ล้านตำลึงเงิน ประการที่ห้า สำคัญสุด สงครามนี้เป็นสัญญาณว่าจีนตื่นตระหนกจากการรับรู้ตนเองว่าเป็น "มหาอาณาจักรฟ้า" การลงนามสนธิสัญญาอัปยศต่อๆ มาเป็นจุดเริ่มต้นของสิ่งที่คนรุ่นหลังเรียกว่า "ศตวรรษแห่งความอัปยศ")
+
+---
+
+## 🔊 ประโยคฝึกประวัติศาสตร์เพิ่มเติม (60+ ประโยค)
+
+1. 秦始皇统一六国后，推行"书同文，车同轨"政策，这对中国文明的延续性有着深远的意义。
+   Qín Shǐhuáng tǒngyī liù guó hòu, tuīxíng "shū tóng wén, chē tóng guǐ" zhèngcè, zhè duì Zhōngguó wénmíng de yánxù xìng yǒu zhe shēnyuǎn de yìyì.
+   (หลังจากจิ๋นซีฮ่องเต้รวมหกรัฐ ดำเนินนโยบาย "เขียนอักษรเดียวกัน วางล้อกว้างเท่ากัน" ซึ่งมีความหมายลึกซึ้งต่อความต่อเนื่องของอารยธรรมจีน)
+
+2. 丝绸之路不仅仅是一条商路，它更是东西方文明交流互鉴的重要通道，促进了人类文明的多元发展。
+   Sīchóu Zhī Lù bùjǐnjǐn shì yī tiáo shānglù, tā gèng shì dōngxīfāng wénmíng jiāoliú hùjiàn de zhòng yào tōngdào, cùjìnle rénlèi wénmíng de duōyuán fāzhǎn.
+   (เส้นทางสายไหมไม่เพียงเป็นเส้นทางการค้า แต่ยังเป็นช่องทางสำคัญในการแลกเปลี่ยนและเรียนรู้จากอารยธรรมตะวันออกและตะวันตก ส่งเสริมการพัฒนาอารยธรรมมนุษย์ให้หลากหลาย)
+
+3. 鸦片战争打破了清朝"天朝上国"的迷梦，推动了中国近代化的艰难起步，也启发了中国知识分子向西方寻求救国之道。
+   Yāpiàn Zhànzhēng dǎpòle Qīng cháo "tiān cháo shàng guó" de mí mèng, tuīdòng le Zhōngguó jìndài huà de jiānnán qǐbù, yě qǐfāle Zhōngguó zhīshí fèn zǐ xiàng xīfāng xúnqiú jiù guó zhī dào.
+   (สงครามฝิ่นทำลายความฝันลมๆ แล้งๆ "อาณาจักรสวรรค์" ของราชวงศ์ชิง ผลักดันการเริ่มต้นที่ยากลำบากของการทำสมัยใหม่จีน และจุดประกายให้ปัญญาชนจีนแสวงหาหนทางกอบกู้ชาติจากตะวันตก)
+
+4. 五四运动的精神——民主与科学——在中国近代史上具有划时代的意义，影响了整整一代中国青年的思想走向。
+   Wǔ Sì Yùndòng de jīngshén—— mínzhǔ yǔ kēxué—— zài Zhōngguó jìndài shǐ shàng jùyǒu huà shídài de yìyì, yǐngxiǎngle zhěngzhěng yī dài Zhōngguó qīngnián de sīxiǎng zǒuxiàng.
+   (จิตวิญญาณของขบวนการ 4 พฤษภาคม — ประชาธิปไตยและวิทยาศาสตร์ — มีความสำคัญแบบ "ยุคใหม่" ในประวัติศาสตร์จีนสมัยใหม่ ส่งผลต่อทิศทางความคิดเยาวชนจีนทั้งรุ่น)
+
+5. 改革开放四十年来，中国经济实现了从计划经济向社会主义市场经济的历史性转型，创造了人类发展史上的奇迹。
+   Gǎigé kāifàng sìshí nián lái, Zhōngguó jīngjì shíxiànle cóng jìhuà jīngjì xiàng shèhuì zhǔyì shìchǎng jīngjì de lìshǐ xìng zhuǎnxíng, chuàngzào le rénlèi fāzhǎn shǐ shàng de qíjì.
+   (ในช่วง 40 ปีของการปฏิรูปและเปิดประตู เศรษฐกิจจีนบรรลุการเปลี่ยนผ่านทางประวัติศาสตร์จากเศรษฐกิจแบบวางแผนสู่เศรษฐกิจตลาดสังคมนิยม สร้างปาฏิหาริย์ในประวัติการพัฒนามนุษย์)
+
+6. 文化大革命是中国历史上的一场劫难，它不仅摧毁了大量文化遗产，更对整整一代中国人的心灵造成了难以愈合的创伤。
+   Wénhuà Dà Gémìng shì Zhōngguó lìshǐ shàng de yī chǎng jiénàn, tā bùjǐn cuīhuǐle dàliàng wénhuà yíchǎn, gèng duì zhěngzhěng yī dài Zhōngguó rén de xīnlíng zàochéngle nányǐ yùhé de chuāngshāng.
+   (การปฏิวัติวัฒนธรรมเป็นหายนะในประวัติศาสตร์จีน มันไม่เพียงทำลายมรดกทางวัฒนธรรมจำนวนมาก แต่ยังสร้างบาดแผลที่รักษาไม่หายต่อจิตใจคนจีนทั้งรุ่น)
+
+7. 汉武帝的"独尊儒术"政策，将儒家思想确立为中国两千年封建社会的正统意识形态，深刻影响了中国的政治文化传统。
+   Hàn Wǔdì de "dú zūn Rú shù" zhèngcè, jiāng Rújiā sīxiǎng quèlì wéi Zhōngguó liǎng qiān nián fēngjiàn shèhuì de zhèng tǒng yìshí xíngtài, shēnkè yǐngxiǎngle Zhōngguó de zhèngzhì wénhuà chuántǒng.
+   (นโยบาย "เชิดชูขงจื๊อเป็นหลัก" ของจักรพรรดิฮั่นอู่ สถาปนาความคิดขงจื๊อเป็นอุดมการณ์หลักของสังคมศักดินาจีนสองพันปี ส่งผลลึกซึ้งต่อประเพณีวัฒนธรรมการเมืองจีน)
+
+8. 中国的科举制度始于隋朝，完善于唐宋，为平民百姓提供了通过考试进入仕途的机会，是古代中国社会流动的重要机制。
+   Zhōngguó de kē jǔ zhìdù shǐ yú Suí cháo, wánshàn yú Táng Sòng, wèi píngmín bǎixìng tígōngle tōngguò kǎoshì jìnrù shìtú de jīhuì, shì gǔdài Zhōngguó shèhuì liúdòng de zhòng yào jīzhì.
+   (ระบบการสอบวัดคุณสมบัติของจีนเริ่มในราชวงศ์สุย สมบูรณ์แบบในถังและซ่ง ให้โอกาสประชาชนสามัญเข้าสู่ราชการผ่านการสอบ เป็นกลไกสำคัญของการเคลื่อนย้ายทางสังคมในจีนโบราณ)
+
+9. 辛亥革命推翻了清朝，但并没有从根本上解决中国的社会问题。中国人民经历了军阀割据、日本侵略、国共内战等一系列磨难，最终在1949年建立了中华人民共和国。
+   Xīnhài Gémìng tuīfān le Qīng cháo, dàn bìng méiyǒu cóng gēnběn shàng jiějué Zhōngguó de shèhuì wèntí. Zhōngguó rénmín jīnglìle jūnfá gē jù, Rìběn qīnlüè, Guó Gòng nèizhàn děng yī xìliè mónàn, zuìzhōng zài 1949 nián jiànlì le Zhōnghuá Rénmín Gònghéguó.
+   (การปฏิวัติซินไห่โค่นล้มราชวงศ์ชิง แต่ไม่ได้แก้ปัญหาสังคมจีนจากรากฐาน ประชาชนจีนผ่านความยากลำบากต่อเนื่อง — ยุคขุนศึก การรุกรานของญี่ปุ่น สงครามกลางเมือง — จนในที่สุดก่อตั้งสาธารณรัฐประชาชนจีนในปี 1949)
+
+10. 中国的"一带一路"倡议，被许多历史学家视为丝绸之路精神在21世纪的现代延伸，旨在通过基础设施互联互通推动区域共同发展。
+    Zhōngguó de "Yī Dài Yī Lù" chàngyì, bèi xǔduō lìshǐ xuéjiā shì wéi Sīchóu Zhī Lù jīngshén zài 21 shìjì de xiàndài yánshēn, zhǐ zài tōngguò jīchǔ shèshī hùlián hùtōng tuīdòng qūyù gòngtóng fāzhǎn.
+    (ข้อริเริ่ม "หนึ่งแถบหนึ่งเส้นทาง" ของจีน ถูกนักประวัติศาสตร์หลายคนมองว่าเป็นการขยายจิตวิญญาณเส้นทางสายไหมในศตวรรษที่ 21 มีเป้าหมายผลักดันการพัฒนาร่วมกันในภูมิภาคผ่านการเชื่อมต่อโครงสร้างพื้นฐาน)
+
+---
+
+## ✏️ แบบฝึกหัดเพิ่มเติม Part 078
+
+### แบบฝึกหัดที่ 4: Historical Analysis Essay
+เขียนบทวิเคราะห์ประวัติศาสตร์สั้น (200-250 คำ) เป็นภาษาจีน หัวข้อ "ความสำคัญของการปฏิรูปและเปิดประตูต่อการพัฒนาจีน" รวม Pinyin กำกับใต้แต่ละย่อหน้า
+
+### แบบฝึกหัดที่ 5: Historical Timeline
+จัดลำดับเหตุการณ์ต่อไปนี้จากเก่าสุดถึงใหม่สุด:
+辛亥革命 / 鸦片战争 / 五四运动 / 改革开放 / 文化大革命 / 秦始皇统一中国 / 丝绸之路开辟 / 中华人民共和国成立
+
+### แบบฝึกหัดที่ 6: Compare and Contrast
+เปรียบเทียบผลกระทบของ 鸦片战争 กับ 辛亥革命 ต่อสังคมจีน ใช้ 5 ประโยคภาษาจีนพร้อม Pinyin
+
+---
+
+## 📖 สรุป Part 078 (ฉบับขยาย)
+
+ใน Part นี้คุณได้เรียนรู้:
+- ✅ คำศัพท์ประวัติศาสตร์ 100+ คำ (ราชวงศ์, สงคราม, เหตุการณ์สมัยใหม่, การปฏิวัติ)
+- ✅ ตารางสรุปราชวงศ์จีน 14 ราชวงศ์
+- ✅ บุคคลสำคัญ: จิ๋นซีฮ่องเต้, ฮั่นอู่, Zhang Qian, Lin Zexu, Sun Yat-sen, เหมาเจ๋อตง, เติ้งเสี่ยวผิง
+- ✅ บทสนทนา 12 บทครอบคลุมทุกช่วงประวัติศาสตร์
+- ✅ ตัวอย่างการบรรยายประวัติศาสตร์ภาษาจีนในสถานการณ์จริง
+
+**คำสำคัญเพิ่มเติม:**
+辛亥革命 (Xīnhài Gémìng) | 五四运动 (Wǔ Sì Yùndòng) | 长征 (Chángyán) | 文化大革命 (Wénhuà Dà Gémìng) | 拨乱反正 (bō luàn fǎn zhèng) | 百年屈辱 (bǎi nián qūrǔ) | 天命 (tiānmìng) | 科举 (kējǔ)
+
+---
+*Part 078 จบสมบูรณ์ | คำศัพท์ประวัติศาสตร์ 100+ คำ | บทสนทนา 12 บท | ประโยคฝึก 70+ ประโยค*
+*ต่อไป Part 079: ปรัชญาและจริยธรรมจีน*
