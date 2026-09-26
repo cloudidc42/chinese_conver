@@ -334,4 +334,261 @@
 大使 (dàshǐ) | 外交关系 (wàijiāo guānxi) | 条约 (tiáoyuē) | 主权 (zhǔquán) | 互利共赢 (hùlì gòng yíng) | 命运共同体 (mìngyùn gòngtóngtǐ) | 一带一路 (Yī Dài Yī Lù) | 多边主义 (duōbiān zhǔyì) | 阁下 (gé xià) | 联合国 (Liánhéguó)
 
 ---
-*Part 075 จบสมบูรณ์ | ต่อไป Part 076: วรรณกรรมและภาษาจีนคลาสสิก*
+
+## 📚 คำศัพท์การทูตเพิ่มเติม (60+ คำ)
+
+### ตารางที่ 5: ศัพท์การเจรจาและกลไกพหุภาคี
+
+| คำศัพท์จีน | Pinyin | ความหมาย |
+|-----------|--------|-----------|
+| 磋商 | Cuōshāng | Consultation/Deliberation |
+| 斡旋 | Wòxuán | Mediation/Good Offices |
+| 调停 | Tiáotíng | Mediation/Conciliation |
+| 斡旋人 | Wòxuán rén | Mediator |
+| 仲裁 | Zhòngcái | Arbitration |
+| 国际法院 | Guójì fǎyuàn | International Court of Justice |
+| 国际仲裁庭 | Guójì zhòngcái tíng | International Arbitral Tribunal |
+| 联合声明 | Liánhé shēngmíng | Joint Statement |
+| 会议公报 | Huìyì gōngbào | Meeting Communiqué |
+| 谅解备忘录 | Liàngjiě bèiwàng lù | MOU (Memorandum of Understanding) |
+| 双边协议 | Shuāngbiān xiéyì | Bilateral Agreement |
+| 多边框架 | Duōbiān kuàngjià | Multilateral Framework |
+| 峰会公报 | Fēnghuì gōngbào | Summit Communiqué |
+| 工作文件 | Gōngzuò wénjiàn | Working Document |
+| 案文 | Àn wén | Draft Text |
+| 括号文本 | Kuòhào wénběn | Bracketed Text (disputed) |
+| 磋商轮次 | Cuōshāng lún cì | Round of Consultations |
+| 首席谈判代表 | Shǒuxí tánpàn dàibiǎo | Chief Negotiator |
+| 联络官 | Liánluò guān | Liaison Officer |
+| 礼宾司 | Lǐbīn sī | Protocol Department |
+| 外交豁免权 | Wàijiāo huòmiǎn quán | Diplomatic Immunity |
+| 不可侵犯性 | Bù kě qīnfàn xìng | Inviolability |
+| 驱逐出境 | Qūzhú chū jìng | Expulsion/Persona Non Grata |
+| 召回大使 | Zhàohuí dàshǐ | Recall of Ambassador |
+| 降低外交关系 | Jiàngdī wàijiāo guānxi | Downgrade Diplomatic Relations |
+| 制裁 | Zhìcái | Sanctions |
+| 反制措施 | Fǎn zhì cuòshī | Counter-measures |
+| 外交照会 | Wàijiāo zhàohuì | Diplomatic Note |
+| 口头照会 | Kǒutóu zhàohuì | Verbal Note |
+| 正式抗议 | Zhèngshì kàngyì | Formal Protest |
+
+### ตารางที่ 6: ศัพท์ความมั่นคงและการค้าระหว่างประเทศ
+
+| คำศัพท์จีน | Pinyin | ความหมาย |
+|-----------|--------|-----------|
+| 军备控制 | Jūnbèi kòngzhì | Arms Control |
+| 裁军 | Cái jūn | Disarmament |
+| 核不扩散条约 | Hé bù kuòsàn tiáoyuē | Nuclear Non-Proliferation Treaty (NPT) |
+| 无核区 | Wú hé qū | Nuclear-Free Zone |
+| 维和行动 | Wéihé xíngdòng | Peacekeeping Operations |
+| 人道主义干预 | Réndào zhǔyì gānyù | Humanitarian Intervention |
+| 保护的责任 | Bǎohù de zérèn | Responsibility to Protect (R2P) |
+| 区域安全机制 | Qūyù ānquán jīzhì | Regional Security Mechanism |
+| 建立信任措施 | Jiànlì xìnrèn cuòshī | Confidence-Building Measures |
+| 争端解决机制 | Zhēngduān jiějué jīzhì | Dispute Settlement Mechanism |
+| 最惠国待遇 | Zuì huìguó dàiyù | Most-Favored-Nation Treatment (MFN) |
+| 国民待遇 | Guómín dàiyù | National Treatment |
+| 贸易救济措施 | Màoyì jiùjì cuòshī | Trade Remedy Measures |
+| 反补贴税 | Fǎn bǔtiē shuì | Countervailing Duties |
+| 原产地规则 | Yuán chǎn dì guīzé | Rules of Origin |
+| 技术性贸易壁垒 | Jìshù xìng màoyì bìlěi | Technical Barriers to Trade (TBT) |
+| 卫生和植物检疫措施 | Wèishēng hé zhíwù jiǎn yì cuòshī | Sanitary and Phytosanitary Measures (SPS) |
+| 知识产权 | Zhīshí chǎnquán | Intellectual Property Rights |
+| 争端解决机构 | Zhēngduān jiějué jīgòu | Dispute Settlement Body (DSB) |
+| 专家组裁决 | Zhuān jiā zǔ cáijué | Panel Ruling |
+| 上诉机构 | Shàngsù jīgòu | Appellate Body |
+| 全面经济伙伴关系 | Quánmiàn jīngjì huǒbàn guānxi | Comprehensive Economic Partnership |
+| 自由贸易区 | Zìyóu màoyì qū | Free Trade Zone |
+| 关税减让 | Guānshuì jiǎn ràng | Tariff Concession |
+| 非关税壁垒 | Fēi guānshuì bìlěi | Non-tariff Barriers |
+| 投资便利化 | Tóuzī biànlì huà | Investment Facilitation |
+| 互联互通 | Hùlián hùtōng | Connectivity (Belt & Road) |
+| 互利合作 | Hùlì hézuò | Mutually Beneficial Cooperation |
+| 南南合作 | Nán Nán hézuò | South-South Cooperation |
+| 发展融资 | Fāzhǎn róngzī | Development Finance |
+
+---
+
+## 💬 บทสนทนาการทูตเพิ่มเติม
+
+### บทสนทนาที่ 9: การเจรจาสนธิสัญญาการค้า (รอบสุดท้าย)
+
+**中国首席谈判代表 (Zhōngguó shǒuxí tánpàn dàibiǎo):** 尊敬的各位代表，经过三轮艰苦的磋商，我们今天终于到了最后的决定性阶段。中方对谈判进展表示满意，同时对某些尚存在分歧的领域保留我方立场。
+Zūnjìng de gèwèi dàibiǎo, jīngguò sān lún jiānkǔ de cuōshāng, wǒmen jīntiān zhōngyú dào le zuìhòu de juédìng xìng jiēduàn. Zhōng fāng duì tánpàn jìnzhǎn biǎoshì mǎnyì, tóngshí duì mǒu xiē shàng cúnzài fēnqí de lǐngyù bǎoliú wǒ fāng lìchǎng.
+(หัวหน้าคณะเจรจาจีน: ท่านผู้แทนที่เคารพทั้งหลาย หลังการปรึกษาหารืออย่างหนักสามรอบ วันนี้เราในที่สุดมาถึงขั้นตอนสุดท้ายที่ชี้ขาด ฝ่ายจีนพอใจกับความคืบหน้าการเจรจา พร้อมกันนี้สงวนจุดยืนในบางด้านที่ยังมีความเห็นแตกต่าง)
+
+**对方首席代表 (Duìfāng shǒuxí dàibiǎo):** 我方同样对取得的进展表示赞赏。关于最惠国待遇的问题，我们已经接受了中方的方案，但在农产品的原产地规则上，我们仍然坚持原有立场。这是我方议会批准本协议的关键条件，请中方理解。
+Wǒ fāng tóngyàng duì qǔdé de jìnzhǎn biǎoshì zànshǎng. Guānyú zuì huìguó dàiyù de wèntí, wǒmen yǐjīng jiēshòu le Zhōng fāng de fāng'àn, dàn zài nóngchǎnpǐn de yuán chǎn dì guīzé shàng, wǒmen réngrán jiānchí yuányǒu lìchǎng.
+(หัวหน้าคณะเจรจาฝ่ายตรงข้าม: ฝ่ายเราเช่นกันชื่นชมต่อความคืบหน้าที่ได้มา เรื่อง MFN เราได้รับข้อเสนอของจีนแล้ว แต่ด้านกฎแหล่งกำเนิดสินค้าเกษตร เรายังยืนยันจุดยืนเดิม นี่คือเงื่อนไขสำคัญสำหรับการให้สัตยาบันของรัฐสภาเรา กรุณาฝ่ายจีนเข้าใจ)
+
+**中国首席谈判代表:** 关于原产地规则，中方提议采取"弹性机制"——允许农产品在一定比例内可以具有第三国来源，同时通过年度审查机制进行调整。这一方案既保护了贵方农业利益，又维护了贸易便利化的整体目标。我相信，这是一个对双方都公平合理的解决方案。
+Guānyú yuán chǎn dì guīzé, Zhōng fāng tíyì cǎiqǔ "tán xìng jīzhì"—— yǔnxǔ nóngchǎnpǐn zài yīdìng bǐlì nèi kěyǐ jùyǒu dì sān guó láiyuán, tóngshí tōngguò niándù shěnchá jīzhì jìnxíng tiáozhěng.
+(หัวหน้าคณะเจรจาจีน: เรื่องกฎแหล่งกำเนิดสินค้า ฝ่ายจีนเสนอใช้ "กลไกยืดหยุ่น" — อนุญาตให้สินค้าเกษตรในสัดส่วนหนึ่งมีแหล่งกำเนิดจากประเทศที่สาม พร้อมปรับผ่านกลไกตรวจสอบประจำปี ข้อเสนอนี้ทั้งคุ้มครองผลประโยชน์เกษตรของท่าน และรักษาเป้าหมายโดยรวมของการอำนวยความสะดวกทางการค้า)
+
+**对方首席代表:** 这个"弹性机制"的提案颇具创意，我们需要时间内部磋商。如果明天可以再次会面，我相信我们有望在这一问题上取得突破。
+Zhège "tán xìng jīzhì" de tí'àn pō jù chuàngyì, wǒmen xūyào shíjiān nèibù cuōshāng. Rúguǒ míngtiān kěyǐ zàicì huìmiàn, wǒ xiāngxìn wǒmen yǒuwàng zài zhè yī wèntí shàng qǔdé tūpò.
+(หัวหน้าคณะเจรจาฝ่ายตรงข้าม: ข้อเสนอ "กลไกยืดหยุ่น" นี้มีความคิดสร้างสรรค์ เราต้องการเวลาปรึกษาหารือภายใน ถ้าพรุ่งนี้สามารถพบกันอีกครั้ง ผมเชื่อว่าเรามีโอกาสบรรลุความก้าวหน้าในปัญหานี้)
+
+---
+
+### บทสนทนาที่ 10: งานแถลงข่าวทางการทูต
+
+**外交部发言人 (Wàijiāo bù fāyán rén):** 感谢各位记者参加今天的新闻发布会。我有几点声明要宣读，之后开放提问。
+Gǎnxiè gèwèi jìzhě cānjiā jīntiān de xīnwén fābù huì. Wǒ yǒu jǐ diǎn shēngmíng yào xuān dú, zhīhòu kāifàng tíwèn.
+(โฆษกกระทรวงการต่างประเทศ: ขอขอบคุณผู้สื่อข่าวทุกท่านที่เข้าร่วมแถลงข่าววันนี้ ผมมีบางแถลงการณ์จะอ่าน จากนั้นเปิดรับคำถาม)
+
+**记者甲 (Jìzhě jiǎ):** 请问中方如何看待最新的涉华制裁措施？中方有何反制计划？
+Qǐngwèn Zhōng fāng rúhé kàndài zuìxīn de shè Huá zhìcái cuòshī? Zhōng fāng yǒu hé fǎn zhì jìhuà?
+(ผู้สื่อข่าว A: ขอถามว่าฝ่ายจีนมองมาตรการคว่ำบาตรที่เกี่ยวกับจีนล่าสุดอย่างไร ฝ่ายจีนมีแผนโต้ตอบอย่างไร)
+
+**外交部发言人:** 中方对任何形式的单边制裁措施坚决反对。这些措施违反了国际法基本准则和联合国宪章精神，是典型的霸权主义行径。中方将保留依法采取一切必要反制措施的权利，以坚决维护中国企业和公民的合法权益。同时，我们呼吁有关方面停止政治操弄，回到对话协商的正轨上来，共同维护多边主义和国际规则体系。
+Zhōng fāng duì rènhé xíngshì de dānbiān zhìcái cuòshī jiānjué fǎnduì. Zhèxiē cuòshī wéifǎn le guójì fǎ jīběn zhǔnzé hé Liánhéguó Xiànzhāng jīngshén, shì diǎnxíng de bàquán zhǔyì xíngjìng. Zhōng fāng jiāng bǎoliú yīfǎ cǎiqǔ yīqiè bìyào fǎn zhì cuòshī de quánlì.
+(โฆษก: ฝ่ายจีนคัดค้านอย่างหนักแน่นต่อมาตรการคว่ำบาตรฝ่ายเดียวทุกรูปแบบ มาตรการเหล่านี้ละเมิดหลักการพื้นฐานของกฎหมายระหว่างประเทศและจิตวิญญาณกฎบัตร UN เป็นพฤติกรรมอำนาจนิยมทั่วไป ฝ่ายจีนจะสงวนสิทธิ์ดำเนินมาตรการโต้ตอบที่จำเป็นตามกฎหมาย เพื่อปกป้องผลประโยชน์ชอบด้วยกฎหมายของบริษัทและพลเมืองจีน)
+
+**记者乙 (Jìzhě yǐ):** 关于台湾问题，有报道称美国拟向台湾出售新型武器，中方有何回应？
+Guānyú Táiwān wèntí, yǒu bàodào chēng Měiguó nǐ xiàng Táiwān chūshòu xīn xíng wǔqì, Zhōng fāng yǒu hé huíyìng?
+(ผู้สื่อข่าว B: เรื่องไต้หวัน มีรายงานว่าสหรัฐฯ วางแผนขายอาวุธรุ่นใหม่ให้ไต้หวัน ฝ่ายจีนมีปฏิกิริยาอย่างไร)
+
+**外交部发言人:** 台湾是中国领土不可分割的一部分，这是国际社会的普遍共识。任何国家向台湾出售武器都严重违反一个中国原则和中美三个联合公报，严重损害中国主权和领土完整，干涉中国内政。中方对此强烈反对，已向美方提出严正交涉，要求立即停止对台军售。中国实现统一是历史的必然，任何外部势力都阻挡不了。
+Táiwān shì Zhōngguó lǐngtǔ bù kě fēngē de yī bùfèn, zhè shì guójì shèhuì de pǔbiàn gòngshí. Rènhé guójiā xiàng Táiwān chūshòu wǔqì dōu yánzhòng wéifǎn yīgè Zhōngguó yuánzé hé Zhōng Měi sān gè liánhé gōngbào.
+(โฆษก: ไต้หวันเป็นส่วนหนึ่งที่แบ่งแยกไม่ได้ของดินแดนจีน นี่คือฉันทามติทั่วไปของประชาคมระหว่างประเทศ ประเทศใดที่ขายอาวุธให้ไต้หวันละเมิดหลักการจีนเดียวและพิธีสาร 3 ฉบับจีน-อเมริกาอย่างร้ายแรง ฝ่ายจีนคัดค้านอย่างแข็งกร้าว ได้ยื่นการประท้วงอย่างเป็นทางการต่อสหรัฐฯ ขอให้หยุดขายอาวุธให้ไต้หวันทันที)
+
+---
+
+### บทสนทนาที่ 11: ASEAN Summit Sideline Meeting
+
+**中国外长 (Zhōngguó wàizhǎng):** 非常高兴在峰会期间与贵方外长举行双边会谈。两国关系近来发展良好，我对中泰全面战略合作伙伴关系的前景充满信心。
+Fēicháng gāoxìng zài fēnghuì qījiān yǔ guì fāng wàizhǎng jǔxíng shuāngbiān huìtán. Liǎng guó guānxi jìnlái fāzhǎn liánghǎo, wǒ duì Zhōng Tài quánmiàn zhànlüè hézuò huǒbàn guānxi de qiánjǐng chōngmǎn xìnxīn.
+(รัฐมนตรีต่างประเทศจีน: ยินดีอย่างยิ่งที่ได้หารือทวิภาคีกับรัฐมนตรีต่างประเทศท่านในช่วงการประชุมสุดยอด ความสัมพันธ์ทั้งสองประเทศพัฒนาดีในช่วงที่ผ่านมา ผมมีความเชื่อมั่นเต็มเปี่ยมต่อแนวโน้มของหุ้นส่วนความร่วมมือเชิงยุทธศาสตร์ครอบคลุมจีน-ไทย)
+
+**泰国外长 (Tàiguó wàizhǎng):** 感谢阁下的盛情厚意。泰中两国是传统的友好邻邦，两国人民之间的深厚友谊历经历史考验。我们高度重视泰中关系，愿意与中方一道，共同推进务实合作，将两国关系提升到新的高度。
+Gǎnxiè gé xià de shèngqíng hòu yì. Tài Zhōng liǎng guó shì chuántǒng de yǒuhǎo línbāng, liǎng guó rénmín zhī jiān de shēnhòu yǒuyì lìjīng lìshǐ kǎoyàn. Wǒmen gāodù zhòngshì Tài Zhōng guānxi, yuànyì yǔ Zhōng fāng yīdào, gòngtóng tuījìn wùshí hézuò.
+(รัฐมนตรีต่างประเทศไทย: ขอบคุณท่านสำหรับน้ำใจอันดี ไทยและจีนเป็นประเทศเพื่อนบ้านมิตรสหายตามประเพณี มิตรภาพอันลึกซึ้งระหว่างประชาชนทั้งสองผ่านบทพิสูจน์ทางประวัติศาสตร์ เราให้ความสำคัญอย่างสูงต่อความสัมพันธ์ไทย-จีน ยินดีร่วมกับฝ่ายจีนผลักดันความร่วมมือเชิงปฏิบัติ ยกระดับความสัมพันธ์ขึ้นสู่ระดับใหม่)
+
+**中国外长:** 我们希望重点加强以下几个领域的合作：第一，"一带一路"互联互通项目，特别是中泰铁路第二段的推进；第二，数字经济和人工智能领域的合作；第三，新能源汽车和绿色转型合作；第四，两国之间的文化教育交流，扩大赴华留学生规模。我相信，只要双方共同努力，两国关系必将迎来更加美好的明天。
+Wǒmen xīwàng zhòngdiǎn jiāqiáng yǐxià jǐ gè lǐngyù de hézuò: Dì yī, "Yī Dài Yī Lù" hùlián hùtōng xiàngmù; Dì èr, shùzì jīngjì hé réngōng zhìnéng lǐngyù de hézuò; Dì sān, xīn néngyuán qìchē hé lǜsè zhuǎnxíng hézuò; Dì sì, liǎng guó zhī jiān de wénhuà jiàoyù jiāoliú.
+(รัฐมนตรีต่างประเทศจีน: เราหวังเสริมสร้างความร่วมมือในด้านต่อไปนี้เป็นหลัก หนึ่ง โครงการ BRI ด้านการเชื่อมต่อ โดยเฉพาะรถไฟจีน-ไทยระยะที่สอง สอง ความร่วมมือเศรษฐกิจดิจิทัลและ AI สาม ความร่วมมือ EV และการเปลี่ยนผ่านสีเขียว สี่ การแลกเปลี่ยนวัฒนธรรมและการศึกษา)
+
+---
+
+## 📄 ตัวอย่างแถลงการณ์ทางการทูต (Press Release)
+
+### ตัวอย่างที่ 4: Joint Statement after Bilateral Summit
+
+**联合声明 (Liánhé shēngmíng) — JOINT STATEMENT**
+
+中华人民共和国国务院总理与泰王国总理
+关于深化两国全面战略合作伙伴关系的联合声明
+(Guānyú shēnhuà liǎng guó quánmiàn zhànlüè hézuò huǒbàn guānxi de liánhé shēngmíng)
+(แถลงการณ์ร่วมว่าด้วยการเสริมสร้างหุ้นส่วนความร่วมมือเชิงยุทธศาสตร์ครอบคลุมระหว่างสองประเทศ)
+
+一、双方高度评价两国关系的发展，确认两国全面战略合作伙伴关系定位，并一致同意在共同利益领域深化务实合作。
+(Yī, shuāngfāng gāodù píngjià liǎng guó guānxi de fāzhǎn, quèrèn liǎng guó quánmiàn zhànlüè hézuò huǒbàn guānxi dìngwèi, bìng yīzhì tóngyì zài gòngtóng lìyì lǐngyù shēnhuà wùshí hézuò.)
+(หนึ่ง ทั้งสองฝ่ายประเมินสูงต่อการพัฒนาความสัมพันธ์สองประเทศ ยืนยันการกำหนดตำแหน่งหุ้นส่วนความร่วมมือเชิงยุทธศาสตร์ครอบคลุม และตกลงร่วมกันที่จะส่งเสริมความร่วมมือเชิงปฏิบัติในด้านผลประโยชน์ร่วมกัน)
+
+二、双方就加快推进"一带一路"互联互通项目达成共识，特别是推进中泰铁路项目合作，以实现区域互联互通，促进经济发展。
+(Èr, shuāngfāng jiù jiākuài tuījìn "Yī Dài Yī Lù" hùlián hùtōng xiàngmù dáchéng gòngshí, tèbié shì tuījìn Zhōng Tài tiělù xiàngmù hézuò.)
+(สอง ทั้งสองฝ่ายบรรลุฉันทามติในการเร่งผลักดันโครงการ BRI ด้านการเชื่อมต่อ โดยเฉพาะโครงการรถไฟจีน-ไทย เพื่อบรรลุการเชื่อมต่อระดับภูมิภาคและส่งเสริมการพัฒนาเศรษฐกิจ)
+
+三、双方同意扩大贸易投资规模，力争在2027年双边贸易额达到1000亿美元目标，并积极促进双向投资，推动产业链供应链合作。
+(Sān, shuāngfāng tóngyì kuòdà màoyì tóuzī guīmó, lìzhēng zài 2027 nián shuāngbiān màoyì é dádào 1000 yì Měiyuán mùbiāo, bìng jījí cùjìn shuāngxiàng tóuzī.)
+(สาม ทั้งสองฝ่ายตกลงขยายขนาดการค้าการลงทุน มุ่งบรรลุเป้าหมายการค้าทวิภาคี 100,000 ล้านดอลลาร์ในปี 2027 และส่งเสริมการลงทุนสองทิศทางอย่างแข็งขัน)
+
+---
+
+## 🔊 ประโยคฝึกการทูตเพิ่มเติม (60+ ประโยค)
+
+1. 中方始终坚持和平共处五项原则，反对任何形式的干涉主义和单边主义。
+   Zhōng fāng shǐzhōng jiānchí hépíng gòngchǔ wǔ xiàng yuánzé, fǎnduì rènhé xíngshì de gānyù zhǔyì hé dānbiān zhǔyì.
+   (ฝ่ายจีนยืนหยัดในหลักการอยู่ร่วมกันอย่างสันติ 5 ประการเสมอมา คัดค้านลัทธิแทรกแซงและลัทธิฝ่ายเดียวทุกรูปแบบ)
+
+2. 本次峰会取得了丰硕成果，双方签署了共计15项合作协议，涵盖经济、科技、人文等多个领域。
+   Běn cì fēnghuì qǔdé le fēngshuò chéngguǒ, shuāngfāng qiānshǔ le gòng jì 15 xiàng hézuò xiéyì, hángài jīngjì, kējì, rénwén děng duō gè lǐngyù.
+   (การประชุมสุดยอดครั้งนี้ได้ผลลัพธ์อันสมบูรณ์ ทั้งสองฝ่ายลงนาม 15 ข้อตกลงความร่วมมือรวม ครอบคลุมหลายด้าน ทั้งเศรษฐกิจ วิทยาศาสตร์ วัฒนธรรม)
+
+3. 在当前复杂多变的国际形势下，维护多边主义和以联合国为核心的国际秩序，是中国外交政策的重要基石。
+   Zài dāngqián fùzá duō biàn de guójì xíngshì xià, wéihù duōbiān zhǔyì hé yǐ Liánhéguó wéi héxīn de guójì zhìxù, shì Zhōngguó wàijiāo zhèngcè de zhòng yào jīshí.
+   (ในสภาพการณ์ระหว่างประเทศที่ซับซ้อนและผันผวนปัจจุบัน การปกป้องระบบพหุภาคีและระเบียบระหว่างประเทศที่มี UN เป็นแกนกลาง เป็นรากฐานสำคัญของนโยบายการต่างประเทศจีน)
+
+4. 两国代表团就共同关心的国际和地区问题深入交换意见，在主要问题上立场高度一致。
+   Liǎng guó dàibiǎotuán jiù gòngtóng guānxīn de guójì hé dìqū wèntí shēnrù jiāohuàn yìjiàn, zài zhǔyào wèntí shàng lìchǎng gāodù yīzhì.
+   (คณะผู้แทนทั้งสองประเทศแลกเปลี่ยนความคิดเห็นอย่างเจาะลึกในประเด็นระหว่างประเทศและภูมิภาคที่ทั้งสองฝ่ายให้ความสนใจ จุดยืนในประเด็นหลักสอดคล้องกันอย่างสูง)
+
+5. 外交豁免权是国际法赋予外交人员的基本权利，任何单方面干涉都是对国际法的严重违反。
+   Wàijiāo huòmiǎn quán shì guójì fǎ fùyǔ wàijiāo rényuán de jīběn quánlì, rènhé dānfāng gānyù dōu shì duì guójì fǎ de yánzhòng wéifǎn.
+   (เอกสิทธิ์ทางการทูตคือสิทธิพื้นฐานที่กฎหมายระหว่างประเทศมอบให้บุคลากรทางการทูต การแทรกแซงฝ่ายเดียวใดๆ คือการละเมิดกฎหมายระหว่างประเทศอย่างร้ายแรง)
+
+6. 中方高度赞赏泰方在涉港、涉台等核心利益问题上的坚定立场，感谢泰方始终坚守一个中国原则。
+   Zhōng fāng gāodù zànshǎng Tài fāng zài shè Gǎng, shè Tái děng héxīn lìyì wèntí shàng de jiāndìng lìchǎng, gǎnxiè Tài fāng shǐzhōng jiānshǒu yīgè Zhōngguó yuánzé.
+   (ฝ่ายจีนให้ความชื่นชมอย่างสูงต่อจุดยืนที่หนักแน่นของไทยในประเด็นผลประโยชน์หลักอย่างฮ่องกงและไต้หวัน ขอขอบคุณไทยที่ยึดมั่นในหลักการจีนเดียวเสมอมา)
+
+7. 在气候变化问题上，中国高度重视推动绿色发展和生态文明建设，将为实现碳中和目标作出重大贡献。
+   Zài qìhòu biànhuà wèntí shàng, Zhōngguó gāodù zhòngshì tuīdòng lǜsè fāzhǎn hé shēngtài wénmíng jiànshè, jiāng wèi shíxiàn tàn zhōnghé mùbiāo zuòchū zhòngdà gòngxiàn.
+   (ในประเด็นการเปลี่ยนแปลงสภาพภูมิอากาศ จีนให้ความสำคัญอย่างยิ่งต่อการผลักดันการพัฒนาสีเขียวและการสร้างอารยธรรมนิเวศ จะมีส่วนสำคัญต่อการบรรลุเป้าหมาย Carbon Neutral)
+
+8. 中国的外交政策是独立自主的和平外交，我们不结盟、不称霸、不谋求势力范围。
+   Zhōngguó de wàijiāo zhèngcè shì dúlì zìzhǔ de hépíng wàijiāo, wǒmen bù jié méng, bù chēng bà, bù móuqiú shìlì fànwéi.
+   (นโยบายการต่างประเทศของจีนคือการทูตสันติภาพที่เป็นอิสระและพึ่งพาตนเอง เราไม่เป็นพันธมิตร ไม่ใช้อำนาจอย่างไม่สมดุล ไม่แสวงหาขอบเขตอิทธิพล)
+
+9. 本次访问成功举行，将为两国关系的发展翻开新的一页，也为本地区的和平稳定与繁荣发展注入新的动力。
+   Běn cì fǎngwèn chénggōng jǔxíng, jiāng wèi liǎng guó guānxi de fāzhǎn fān kāi xīn de yī yè, yě wèi běn dìqū de hépíng wěndìng yǔ fánróng fāzhǎn zhùrù xīn de dònglì.
+   (การเยือนครั้งนี้ที่ประสบความสำเร็จ จะเปิดหน้าใหม่ในการพัฒนาความสัมพันธ์สองประเทศ และยังฉีดพลังใหม่ให้ความสงบสันติ เสถียรภาพ และความเจริญรุ่งเรืองของภูมิภาค)
+
+10. 我方在此郑重声明，任何将台湾问题国际化的企图都是徒劳的，台湾是中国内政，不容任何外国势力干涉。
+    Wǒ fāng zài cǐ zhèngzhòng shēngmíng, rènhé jiāng Táiwān wèntí guójì huà de qǐtú dōu shì túláo de, Táiwān shì Zhōngguó nèizhèng, bùróng rènhé wàiguó shìlì gānyù.
+    (ฝ่ายเราขอประกาศอย่างจริงจังว่า ความพยายามใดๆ ในการทำให้ปัญหาไต้หวันเป็นประเด็นระหว่างประเทศล้วนไร้ประโยชน์ ไต้หวันเป็นกิจการภายในของจีน ไม่ยอมรับการแทรกแซงของกองกำลังต่างชาติใดๆ)
+
+---
+
+## ✏️ แบบฝึกหัดเพิ่มเติม Part 075
+
+### แบบฝึกหัดที่ 4: Diplomatic Statement Drafting
+เขียนแถลงการณ์สั้น (100-150 คำ) เป็นภาษาจีนในสถานการณ์: "รัฐบาลจีนแสดงความไม่พอใจต่อการขายอาวุธให้ประเทศเพื่อนบ้าน" ใช้ภาษาทางการทูตที่เหมาะสม รวมถึงคำว่า 严正立场 (yánzhèng lìchǎng), 坚决反对 (jiānjué fǎnduì), 保留权利 (bǎoliú quánlì)
+
+### แบบฝึกหัดที่ 5: Diplomatic Speech Simulation
+ฝึกกล่าวสุนทรพจน์ 3 นาทีในฐานะรัฐมนตรีต่างประเทศ ในการต้อนรับคณะทูตจากประเทศเพื่อนบ้าน ใช้โครงสร้างสุนทรพจน์ทางการทูตและคำศัพท์จาก Part 075
+
+### แบบฝึกหัดที่ 6: Communiqué Translation
+แปลข้อความจาก Joint Communiqué ในตัวอย่างที่ 4 เป็นภาษาไทย แล้วแปลกลับเป็นภาษาจีน (Back-translation) เพื่อตรวจสอบความเข้าใจ
+
+---
+
+## 📖 สรุป Part 075 (ฉบับขยาย)
+
+ใน Part นี้คุณได้เรียนรู้:
+- ✅ คำศัพท์ทางการทูต 120+ คำ
+- ✅ ตำแหน่งทางการทูต 15+ คำ
+- ✅ ศัพท์การเจรจาพหุภาคีและการค้าระหว่างประเทศ 60+ คำ
+- ✅ บทสนทนาทางการทูต 11 บท
+- ✅ ตัวอย่างสุนทรพจน์ทางการทูต 4 ชิ้น
+- ✅ ตัวอย่าง Joint Statement ภาษาจีน
+- ✅ ประโยคฝึกทางการทูต 70+ ประโยค
+
+**คำศัพท์สำคัญที่ต้องจำ:**
+大使 (dàshǐ) | 外交关系 (wàijiāo guānxi) | 条约 (tiáoyuē) | 主权 (zhǔquán) | 互利共赢 (hùlì gòng yíng) | 命运共同体 (mìngyùn gòngtóngtǐ) | 一带一路 (Yī Dài Yī Lù) | 多边主义 (duōbiān zhǔyì) | 阁下 (gé xià) | 联合国 (Liánhéguó) | 谅解备忘录 (liàngjiě bèiwàng lù) | 斡旋 (wòxuán) | 争端解决 (zhēngduān jiějué) | 坚决反对 (jiānjué fǎnduì) | 一个中国原则 (yīgè Zhōngguó yuánzé)
+
+---
+### ประโยคฝึกเพิ่มเติม (เน้นสถานการณ์หลากหลาย)
+
+11. 阁下，请允许我代表本国政府，对贵国遭受的自然灾害表达最诚挚的慰问，并承诺提供一切可能的人道主义援助。
+    Gé xià, qǐng yǔnxǔ wǒ dàibiǎo běn guó zhèngfǔ, duì guì guó zāoshòu de zìrán zāihài biǎodá zuì zhěngzhì de wèiwèn, bìng chéngnuò tígōng yīqiè kěnéng de réndào zhǔyì yuánzhù.
+    (ท่าน กรุณาอนุญาตให้ผมในนามรัฐบาลของประเทศ แสดงความเสียใจอย่างจริงใจที่สุดต่อภัยพิบัติทางธรรมชาติที่ประเทศท่านได้รับ และให้คำมั่นว่าจะให้ความช่วยเหลือด้านมนุษยธรรมทุกอย่างที่เป็นไปได้)
+
+12. 在双边关系史上，两国人民之间深厚的友好情谊是我们携手前行最宝贵的精神财富。
+    Zài shuāngbiān guānxi shǐ shàng, liǎng guó rénmín zhī jiān shēnhòu de yǒuhǎo qíngyì shì wǒmen xiéshǒu qián xíng zuì bǎoguì de jīngshén cáifù.
+    (ในประวัติความสัมพันธ์ทวิภาคี มิตรภาพอันลึกซึ้งระหว่างประชาชนทั้งสองเป็นทรัพย์สินทางจิตใจที่ล้ำค่าที่สุดในการก้าวเดินไปด้วยกัน)
+
+13. 联合国作为最具代表性的多边机构，在解决全球性挑战方面发挥着不可替代的核心作用。
+    Liánhéguó zuòwéi zuì jù dàibiǎo xìng de duōbiān jīgòu, zài jiějué quánqiú xìng tiǎozhàn fāngmiàn fāhuīzhe bùkě tìdài de héxīn zuòyòng.
+    (ยูเอ็นในฐานะองค์กรพหุภาคีที่มีตัวแทนมากที่สุด มีบทบาทสำคัญที่ทดแทนไม่ได้ในการแก้ไขความท้าทายระดับโลก)
+
+14. 中方始终认为，国家不分大小、强弱、贫富，都应当在国际事务中享有平等的发言权。
+    Zhōng fāng shǐzhōng rènwéi, guójiā bù fēn dà xiǎo, qiáng ruò, pín fù, dōu yīngdāng zài guójì shìwù zhōng xiǎngyǒu píngděng de fāyán quán.
+    (ฝ่ายจีนเชื่อเสมอว่า ประเทศทั้งเล็กและใหญ่ แข็งแกร่งและอ่อนแอ รวยและจน ควรมีสิทธิ์เท่าเทียมในการแสดงความคิดเห็นในกิจการระหว่างประเทศ)
+
+15. 双方同意定期举行外长级磋商，建立直接热线通讯机制，以确保在紧急情况下能够及时进行高层沟通。
+    Shuāngfāng tóngyì dìngqī jǔxíng wàizhǎng jí cuōshāng, jiànlì zhíjiē rèxiàn tōngxùn jīzhì, yǐ quèbǎo zài jǐnjí qíngkuàng xià néng gòu jíshí jìnxíng gāocéng gōutōng.
+    (ทั้งสองฝ่ายตกลงจัดการหารือระดับรัฐมนตรีต่างประเทศเป็นประจำ สร้างกลไกการสื่อสารสายตรงฉุกเฉิน เพื่อรับประกันว่าสามารถสื่อสารระดับสูงได้ทันทีในกรณีฉุกเฉิน)
+
+*Part 075 จบสมบูรณ์ | คำศัพท์ 120+ คำ | บทสนทนา 11 บท | ประโยคฝึก 85+ ประโยค*
+*ต่อไป Part 076: วรรณกรรมและภาษาจีนคลาสสิก*
