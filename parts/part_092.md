@@ -443,3 +443,315 @@ Zhǎnwàng 2025 nián, wǒmen yùjì shōurù zēngzhǎng 30-35%, jìng lìrùn 
 
 *Part 092 เสร็จสมบูรณ์ | คำศัพท์ 150+ คำ | บทสนทนา 10 บท*
 *ดำเนินต่อด้วย Part 093: การแพทย์และสาธารณสุข*
+
+---
+
+## 🏦 บทสนทนา Investment Banking เพิ่มเติม
+
+### บทสนทนาที่ 11: การเจรจาดีลควบรวมกิจการ (M&A)
+
+**收购方顾问 (Buy-side Advisor):** 我们对目标公司的初步估值在15-20亿元之间，基于12倍EBITDA倍数。
+*(Wǒmen duì mùbiāo gōngsī de chūbù gūzhí zài 15-20 yì yuán zhījiān, jīyú 12 bèi EBITDA bèishù.)*
+*[การประเมินมูลค่าเบื้องต้นของบริษัทเป้าหมายของเราอยู่ที่ 15-20 พันล้านหยวน โดยใช้ EBITDA Multiple 12 เท่า]*
+
+**目标公司顾问 (Sell-side Advisor):** 我方认为这个估值低估了公司的增长潜力，我们期望不低于18亿元。
+*(Wǒ fāng rènwéi zhège gūzhí dīgū le gōngsī de zēngzhǎng qiánlì, wǒmen qīwàng bù dīyú 18 yì yuán.)*
+*[ฝ่ายเราเห็นว่าการประเมินมูลค่านี้ต่ำเกินไปสำหรับศักยภาพการเติบโตของบริษัท เราคาดหวังไม่ต่ำกว่า 1.8 พันล้านหยวน]*
+
+**收购方顾问:** 考虑到目前的市场环境和整合风险，18亿似乎定价过高。我们可以接受16亿加上基于业绩的追加对价。
+*(Kǎolǜ dào mùqián de shìchǎng huánjìng hé zhěnghé fēngxiǎn, 18 yì sìhū dìngjià guò gāo.)*
+*[พิจารณาสภาพแวดล้อมตลาดปัจจุบันและความเสี่ยงในการรวมกิจการ 1.8 พันล้านดูเหมือนราคาเกินไป เราสามารถรับ 1.6 พันล้านบวก Earnout ตามผลประกอบการ]*
+
+**目标公司顾问:** 追加对价条款的具体设计是什么？触发条件是未来三年CAGR达到25%吗？
+*(Zhuījiā duìjià tiákuǎn de jùtǐ shèjì shì shénme? Chùfā tiáojiàn shì wèilái sān nián CAGR dádào 25% ma?)*
+*[การออกแบบรายละเอียดของเงื่อนไข Earnout เป็นอย่างไร? เงื่อนไขกระตุ้นคือ CAGR สามปีข้างหน้าถึง 25% ไหม?]*
+
+**收购方顾问:** 是的，若三年CAGR达25%，追加1.5亿；若达30%，追加3亿。
+*(Shì de, ruò sān nián CAGR dá 25%, zhuījiā 1.5 yì; ruò dá 30%, zhuījiā 3 yì.)*
+*[ใช่ ถ้า CAGR สามปีถึง 25% จ่ายเพิ่ม 150 ล้าน ถ้าถึง 30% จ่ายเพิ่ม 300 ล้าน]*
+
+**目标公司顾问:** 这个方案基本可行，但我们需要对业绩指标的定义和计算方法进行明确。
+*(Zhège fāng'àn jīběn kěxíng, dàn wǒmen xūyào duì yèjī zhǐbiāo de dìngyì hé jìsuàn fāngfǎ jìnxíng míngquè.)*
+*[แผนนี้โดยพื้นฐานทำได้ แต่เราต้องกำหนดความหมายและวิธีคำนวณตัวชี้วัดผลประกอบการให้ชัดเจน]*
+
+---
+
+### บทสนทนาที่ 12: IPO Roadshow
+
+**投资银行家 (Investment Banker):** 各位机构投资人，感谢大家参加我们的IPO路演。
+*(Gèwèi jīgòu tóuzīrén, gǎnxiè dàjiā cānjiā wǒmen de IPO lùyǎn.)*
+*[นักลงทุนสถาบานทุกท่าน ขอบคุณทุกท่านที่เข้าร่วม IPO Roadshow ของเรา]*
+
+**公司CFO:** 我们公司成立于2018年，是国内领先的SaaS企业服务提供商。本次IPO计划募资10亿元，用于技术研发和市场拓展。
+*(Wǒmen gōngsī chénglì yú 2018 nián, shì guónèi lǐngxiān de SaaS qǐyè fúwù tígōng shāng. Běn cì IPO jìhuà mùzī 10 yì yuán.)*
+*[บริษัทเราก่อตั้งในปี 2018 เป็นผู้ให้บริการ SaaS องค์กรชั้นนำของประเทศ IPO ครั้งนี้วางแผนระดมทุน 1 พันล้านหยวน สำหรับการวิจัยพัฒนาเทคโนโลยีและการขยายตลาด]*
+
+**机构投资人 (Institutional Investor):** 您的ARR增速如何？目前的净收入留存率是多少？
+*(Nín de ARR zēngsù rúhé? Mùqián de jìng shōurù liúcún lǜ shì duōshǎo?)*
+*[อัตราการเติบโต ARR ของคุณเป็นอย่างไร? Net Revenue Retention Rate ปัจจุบันเป็นเท่าไร?]*
+
+**公司CFO:** 过去三年ARR年均增长率为85%，目前净收入留存率为120%，显示客户扩展使用的强劲势头。
+*(Guòqù sān nián ARR niánjūn zēngzhǎng lǜ wèi 85%, mùqián jìng shōurù liúcún lǜ wèi 120%.)*
+*[ARR เติบโตเฉลี่ยปีละ 85% ในสามปีที่ผ่านมา Net Revenue Retention Rate ปัจจุบัน 120% แสดงถึงแนวโน้มที่แข็งแกร่งในการขยายการใช้งานของลูกค้า]*
+
+**机构投资人:** 请问你们预计何时能达到盈亏平衡？
+*(Qǐngwèn nǐmen yùjì hé shí néng dádào yínkuī pínghéng?)*
+*[กรุณาบอกว่าคุณคาดว่าจะถึงจุดคุ้มทุนเมื่อไร?]*
+
+**公司CFO:** 按照我们的财务模型，预计2027年下半年达到运营盈亏平衡，2028年实现GAAP盈利。
+*(Ànzhào wǒmen de cáiwù móxíng, yùjì 2027 nián xià bànnián dádào yùnyíng yínkuī pínghéng.)*
+*[ตามโมเดลการเงินของเรา คาดว่าจะถึงจุดคุ้มทุนด้านการดำเนินงานในครึ่งหลังของปี 2027 และบรรลุกำไร GAAP ในปี 2028]*
+
+---
+
+### บทสนทนาที่ 13: Private Equity
+
+**PE合伙人 (PE Partner):** 我们对这个项目进行了深入尽调，整体上看好其在医疗AI赛道的差异化优势。
+*(Wǒmen duì zhège xiàngmù jìnxíng le shēnrù jǐn diào, zhěngtǐ shàng kànhǎo qí zài yīliáo AI sàidào de chāyìhuà yōushì.)*
+*[เราทำ DD เชิงลึกสำหรับโครงการนี้ โดยรวมมองดีต่อข้อได้เปรียบเชิงความแตกต่างในเลน AI ทางการแพทย์]*
+
+**创始人 (Founder):** 感谢贵方的认可。我们希望此轮融资能支持公司在未来三年内完成10家三甲医院的标杆客户建设。
+*(Gǎnxiè guì fāng de rènkě. Wǒmen xīwàng cǐ lún róngzī néng zhīchí gōngsī zài wèilái sān nián nèi wánchéng 10 jiā sān jiǎ yīyuàn de biāogǎn kèhù jiànshè.)*
+*[ขอบคุณที่ท่านยอมรับ เราหวังว่าการระดมทุนรอบนี้จะสนับสนุนให้บริษัทสร้างลูกค้าตัวอย่าง 10 โรงพยาบาลระดับ 3A ภายในสามปีข้างหน้า]*
+
+**PE合伙人:** 我们的初步条款表明，此轮估值为5亿元。我们希望获得20%股权，并在董事会获得一席。
+*(Wǒmen de chūbù tiákuǎn biǎomíng, cǐ lún gūzhí wèi 5 yì yuán. Wǒmen xīwàng huòdé 20% gǔquán.)*
+*[เงื่อนไขเบื้องต้นของเราระบุว่า Valuation รอบนี้คือ 500 ล้านหยวน เราต้องการถือหุ้น 20% และได้ที่นั่งในคณะกรรมการหนึ่งที่นั่ง]*
+
+**创始人:** 关于股权比例，我们希望控制在15%以内，以保留足够的后续融资空间。
+*(Guānyú gǔquán bǐlì, wǒmen xīwàng kòngzhì zài 15% yǐnèi, yǐ bǎoliú gòu de hòuxù róngzī kōngjiān.)*
+*[เรื่องสัดส่วนหุ้น เราต้องการควบคุมไว้ที่ไม่เกิน 15% เพื่อรักษาพื้นที่การระดมทุนในอนาคต]*
+
+---
+
+## 📊 คำศัพท์ IPO Roadshow 30+ คำ
+
+| จีน | Pinyin | ความหมาย |
+|-----|--------|---------|
+| 首次公开募股 | Shǒucì gōngkāi mùgǔ | IPO |
+| 路演 | Lùyǎn | Roadshow |
+| 询价 | Xún jià | Book Building |
+| 定价区间 | Dìngjià qūjiān | Price Range |
+| 超额配售选择权 | Chāo'é pèishòu xuǎnzéquán | Green Shoe Option |
+| 承销商 | Chéngsāo shāng | Underwriter |
+| 主承销商 | Zhǔ chéngsāo shāng | Lead Underwriter |
+| 联席主承销商 | Liánxí zhǔ chéngsāo shāng | Joint Lead Manager |
+| 招股说明书 | Zhāogǔ shuōmíng shū | Prospectus |
+| 红鲱鱼招股书 | Hóng lǐ yú zhāogǔ shū | Red Herring Prospectus |
+| 锁定期 | Suǒdìng qī | Lock-up Period |
+| 基石投资者 | Jīshí tóuzīzhě | Cornerstone Investor |
+| 战略配售 | Zhànlüè pèishòu | Strategic Placement |
+| 网下配售 | Wǎng xià pèishòu | Institutional Allocation |
+| 网上申购 | Wǎng shàng shēnggòu | Retail Subscription |
+| 中签率 | Zhòng qiān lǜ | Lottery Rate |
+| 发行价格 | Fāxíng jiàgé | Issue Price |
+| 发行市盈率 | Fāxíng shì yínglǜ | Issue P/E Ratio |
+| 超募 | Chāo mù | Oversubscription |
+| 破发 | Pò fā | Price Break (Trading below IPO price) |
+| 年度经常性收入 | Niándù jīngcháng xìng shōurù | ARR |
+| 月度经常性收入 | Yuèdù jīngcháng xìng shōurù | MRR |
+| 客户终身价值 | Kèhù zhōngshēn jiàzhí | LTV |
+| 净收入留存率 | Jìng shōurù liúcún lǜ | Net Revenue Retention |
+| 增长资本 | Zēngzhǎng zīběn | Growth Capital |
+
+---
+
+## 💰 คำศัพท์ Private Equity 40+ คำ
+
+| จีน | Pinyin | ความหมาย |
+|-----|--------|---------|
+| 私募股权 | Sīmù gǔquán | Private Equity |
+| 风险投资 | Fēngxiǎn tóuzī | Venture Capital |
+| 天使投资 | Tiānshǐ tóuzī | Angel Investment |
+| 种子轮 | Zhǒngzǐ lún | Seed Round |
+| 天使轮 | Tiānshǐ lún | Angel Round |
+| A轮融资 | A lún róngzī | Series A |
+| B轮融资 | B lún róngzī | Series B |
+| Pre-IPO轮 | Pre-IPO lún | Pre-IPO Round |
+| 战略融资 | Zhànlüè róngzī | Strategic Investment |
+| 尽职调查 | Jìnzhí diàochá | Due Diligence |
+| 投资条款清单 | Tóuzī tiákuǎn qīngdān | Term Sheet |
+| 估值 | Gūzhí | Valuation |
+| 投前估值 | Tóu qián gūzhí | Pre-money Valuation |
+| 投后估值 | Tóu hòu gūzhí | Post-money Valuation |
+| 优先清算权 | Yōuxiān qīngsuàn quán | Liquidation Preference |
+| 反稀释条款 | Fǎn xīshì tiákuǎn | Anti-dilution Clause |
+| 优先股 | Yōuxiān gǔ | Preferred Stock |
+| 普通股 | Pǔtōng gǔ | Common Stock |
+| 可转换债券 | Kě zhuǎnhuàn zhàiquàn | Convertible Note |
+| 可转换优先股 | Kě zhuǎnhuàn yōuxiān gǔ | Convertible Preferred Stock |
+| 退出机制 | Tuìchū jīzhì | Exit Mechanism |
+| IPO退出 | IPO tuìchū | IPO Exit |
+| 并购退出 | Bìnggòu tuìchū | M&A Exit |
+| 回购退出 | Huígòu tuìchū | Buyback Exit |
+| 内部收益率 | Nèibù shōuyì lǜ | IRR (Internal Rate of Return) |
+| 投资倍数 | Tóuzī bèishù | Investment Multiple (MOIC) |
+| 资金回报倍数 | Zījīn huíbào bèishù | MOIC (Multiple on Invested Capital) |
+| 基金规模 | Jījīn guīmó | Fund Size |
+| 基金期限 | Jījīn qīxiàn | Fund Term |
+| 管理费 | Guǎnlǐ fèi | Management Fee |
+| 业绩报酬 | Yèjī bàochou | Carried Interest |
+| 门槛收益率 | Ménkǎn shōuyì lǜ | Hurdle Rate |
+| 普通合伙人 | Pǔtōng héhuǒrén | General Partner (GP) |
+| 有限合伙人 | Yǒuxiàn héhuǒrén | Limited Partner (LP) |
+| 有限合伙企业 | Yǒuxiàn héhuǒ qǐyè | Limited Partnership |
+| 投资组合公司 | Tóuzī zǔhé gōngsī | Portfolio Company |
+| 价值创造 | Jiàzhí chuàngzào | Value Creation |
+| 运营改善 | Yùnyíng gǎishàn | Operational Improvement |
+| 杠杆收购 | Gǎnggǎn shōugòu | Leveraged Buyout (LBO) |
+| 管理层收购 | Guǎnlǐ céng shōugòu | Management Buyout (MBO) |
+
+---
+
+## 📄 ตัวอย่างรายงานการเงิน
+
+### รายงานการเงินที่ 1: สรุปผลประกอบการรายไตรมาส
+
+```
+季度财务报告摘要 (Quarterly Financial Summary)
+公司: 智慧科技股份有限公司 (Zhihui Technology Co., Ltd.)
+报告期: 2026年第一季度 (Q1 2026)
+
+【营收情况 (Revenue)】
+总营收: 2.85亿元 (+42% YoY)
+经常性收入(ARR): 2.1亿元 (+58% YoY)
+非经常性收入: 0.75亿元 (+18% YoY)
+
+【利润情况 (Profitability)】
+毛利润: 1.99亿元
+毛利率: 69.8% (vs 65.2% 上年同期)
+调整后EBITDA: -0.3亿元 (收窄中)
+调整后EBITDA利润率: -10.5%
+
+【关键运营指标 (Key Operating Metrics)】
+付费客户数: 1,250家 (+35% YoY)
+客均收入(ARPU): 16.8万元/年 (+17% YoY)
+净收入留存率(NRR): 118%
+客户流失率(Churn): 3.2%（月度）
+
+【现金流 (Cash Flow)】
+期末现金及等价物: 4.2亿元
+运营现金流: -0.18亿元
+可用现金储备: 预计支撑运营24个月
+
+【展望 (Guidance)】
+Q2 2026营收预期: 3.2-3.4亿元
+2026全年营收预期: 12-13亿元
+预计2027年Q2达到运营盈亏平衡
+
+【重要事项 (Key Highlights)】
+1. 完成B+轮融资3亿元，投后估值25亿元
+2. 与中国电信签署战略合作协议
+3. 海外收入占比提升至15%
+4. 新增大客户（年合同金额>500万）12家
+```
+
+### รายงานการเงินที่ 2: การวิเคราะห์สินเชื่อธนาคาร
+
+```
+贷款项目信贷分析报告 (Credit Analysis Report)
+借款人: ABC制造有限公司
+贷款金额: 人民币5,000万元
+贷款期限: 5年
+贷款用途: 设备采购及厂房扩建
+
+【企业概况 (Company Overview)】
+成立年份: 2010年
+主营业务: 精密机械零部件制造
+年营收: 3.2亿元
+员工人数: 850人
+客户集中度: 前三大客户占收入35%
+
+【财务分析 (Financial Analysis)】
+资产负债率: 52% (行业均值55%)
+流动比率: 1.8 (健康水平>1.5)
+速动比率: 1.3 (合理水平>1.0)
+EBITDA: 4,800万元
+债务/EBITDA: 2.1x (低风险<3x)
+利息覆盖率: 5.2x (强>3x)
+净利润率: 8.5% (行业均值7%)
+
+【风险评估 (Risk Assessment)】
+信用评级建议: AA-
+主要风险: 原材料价格波动、汇率风险
+缓释措施: 长期供应合同、外汇套期保值
+
+【抵押担保 (Collateral)】
+不动产抵押: 厂房估值8,000万元, LTV 62.5%
+机器设备抵押: 现有设备评估值2,500万元
+法人连带责任保证
+
+【授信建议 (Credit Recommendation)】
+批准贷款5,000万元，期限5年
+利率: LPR+80BP（当前约4.95%）
+还款方式: 前2年只还息，第3-5年等额还本付息
+前提条件: 客户账户日均余额≥500万元
+```
+
+---
+
+## ✍️ ประโยคฝึกการเงินและธนาคาร 60+ ประโยค
+
+1. 本次IPO计划在科创板上市，发行价格区间为每股15-18元，对应市盈率约30-35倍。
+   *(Běn cì IPO jìhuà zài kē chuàng bǎn shàngshì, fāxíng jiàgé qūjiān wèi měi gǔ 15-18 yuán.)*
+   [IPO ครั้งนี้วางแผนจดทะเบียนในบอร์ด STAR Market ช่วงราคาขายหุ้นละ 15-18 หยวน คิดเป็น P/E ประมาณ 30-35 เท่า]
+
+2. 并购交易中，买方通常会在交割前进行全面的法律、财务和商业尽职调查。
+   *(Bìnggòu jiāoyì zhōng, mǎifāng tōngcháng huì zài jiāogē qián jìnxíng quánmiàn de fǎlǜ, cáiwù hé shāngyè jǐnzhí diàochá.)*
+   [ในธุรกรรม M&A ฝ่ายซื้อมักทำ Due Diligence ด้านกฎหมาย การเงิน และธุรกิจอย่างครบถ้วนก่อนการส่งมอบ]
+
+3. 私募股权基金通常在投资后3-7年内通过IPO或并购实现退出。
+   *(Sīmù gǔquán jījīn tōngcháng zài tóuzī hòu 3-7 nián nèi tōngguò IPO huò bìnggòu shíxiàn tuìchū.)*
+   [กองทุน Private Equity มักออกจากการลงทุนผ่าน IPO หรือ M&A ภายใน 3-7 ปีหลังการลงทุน]
+
+4. 风险投资机构最看重初创企业的团队质量、市场规模和技术壁垒。
+   *(Fēngxiǎn tóuzī jīgòu zuì kànzhòng chūchuàng qǐyè de tuánduì zhìliàng, shìchǎng guīmó hé jìshù bìlěi.)*
+   [บริษัท VC ให้ความสำคัญสูงสุดกับคุณภาพทีม ขนาดตลาด และอุปสรรคทางเทคโนโลยีของ Startup]
+
+5. 在利率上升环境中，债券价格通常会下跌，投资者需要注意利率风险。
+   *(Zài lìlǜ shàngshēng huánjìng zhōng, zhàiquàn jiàgé tōngcháng huì xià diē, tóuzīzhě xūyào zhùyì lìlǜ fēngxiǎn.)*
+   [ในสภาพแวดล้อมที่อัตราดอกเบี้ยสูงขึ้น ราคาพันธบัตรมักลดลง นักลงทุนต้องระวังความเสี่ยงอัตราดอกเบี้ย]
+
+6. 人民币汇率中间价由中国人民银行每日发布，反映市场供求关系。
+   *(Rénmínbì huìlǜ zhōngjiān jià yóu Zhōngguó rénmín yínháng měi rì fābù, fǎnyìng shìchǎng gōngqiú guānxi.)*
+   [ราคากลางอัตราแลกเปลี่ยน RMB เผยแพร่โดยธนาคารประชาชนจีนทุกวัน สะท้อนความสัมพันธ์อุปสงค์-อุปทานของตลาด]
+
+7. 商业银行需要满足最低资本充足率要求，以确保系统稳定性。
+   *(Shāngyè yínháng xūyào mǎnzú zuìdī zīběn chōngzú lǜ yāoqiú, yǐ quèbǎo xìtǒng wěndìngxìng.)*
+   [ธนาคารพาณิชย์ต้องตอบสนองข้อกำหนดอัตราส่วนความเพียงพอของเงินทุนขั้นต่ำ เพื่อรับประกันเสถียรภาพของระบบ]
+
+8. 绿色金融工具为可再生能源和清洁技术项目提供了低成本融资渠道。
+   *(Lǜsè jīnróng gōngjù wèi kě zài shēng néngyuán hé qīngjié jìshù xiàngmù tígōng le dī chéngběn róngzī qúdào.)*
+   [เครื่องมือการเงินสีเขียวให้ช่องทางระดมทุนต้นทุนต่ำสำหรับโครงการพลังงานหมุนเวียนและเทคโนโลยีสะอาด]
+
+9. 资产证券化将非流动性资产转化为可交易证券，提高了资本市场效率。
+   *(Zīchǎn zhèngquànhuà jiāng fēi liúdòngxìng zīchǎn zhuǎnhuà wèi kě jiāoyì zhèngquàn, tígāo le zīběn shìchǎng xiàolǜ.)*
+   [การแปลงสินทรัพย์เป็นหลักทรัพย์เปลี่ยนสินทรัพย์ที่ไม่มีสภาพคล่องให้เป็นหลักทรัพย์ที่ซื้อขายได้ เพิ่มประสิทธิภาพตลาดทุน]
+
+10. 跨境并购需要遵守东道国的反垄断审查和外商投资审批程序。
+    *(Kuàjìng bìnggòu xūyào zūnshǒu dōngdào guó de fǎn lǒngduàn shěnchá hé wàishāng tóuzī shěnpī chéngxù.)*
+    [การควบรวมกิจการข้ามพรมแดนต้องปฏิบัติตามขั้นตอนการตรวจสอบต่อต้านการผูกขาดและการอนุมัติการลงทุนต่างชาติของประเทศเจ้าบ้าน]
+
+11. 债券发行人需要定期披露财务信息，确保信息透明度和投资者保护。
+    *(Zhàiquàn fāxíng rén xūyào dìngqī pīlù cáiwù xìnxī, quèbǎo xìnxī tòumíng dù hé tóuzīzhě bǎohù.)*
+    [ผู้ออกพันธบัตรต้องเปิดเผยข้อมูลการเงินเป็นประจำ รับประกันความโปร่งใสของข้อมูลและการคุ้มครองนักลงทุน]
+
+12. 信用违约互换(CDS)是一种用于转移信用风险的金融衍生工具。
+    *(Xìnyòng wéiyuē hùhuàn (CDS) shì yī zhǒng yòngyu zhuǎnyí xìnyòng fēngxiǎn de jīnróng yǎnshēng gōngjù.)*
+    [Credit Default Swap (CDS) คือเครื่องมือการเงินอนุพันธ์ที่ใช้ในการโอนความเสี่ยงด้านเครดิต]
+
+13. 量化宽松政策结束后，市场流动性收紧，股市和债市均承压。
+    *(Liànghuà kuānsōng zhèngcè jiéshù hòu, shìchǎng liúdòngxìng shōujǐn, gǔshì hé zhài shì jūn chéng yā.)*
+    [หลังสิ้นสุดนโยบาย QE สภาพคล่องตลาดตึงตัว ทั้งตลาดหุ้นและตลาดพันธบัตรอยู่ภายใต้แรงกดดัน]
+
+14. 企业上市前需聘请保荐机构、会计师事务所和律师事务所完成上市辅导。
+    *(Qǐyè shàngshì qián xū pìnqǐng bǎojiàn jīgòu, kuàijì shī shìwùsuǒ hé lǜshī shìwùsuǒ wánchéng shàngshì fǔdǎo.)*
+    [บริษัทก่อนจดทะเบียนต้องว่าจ้างสถาบันสนับสนุน บริษัทบัญชี และบริษัทกฎหมายเพื่อทำการฝึกอบรมก่อนจดทะเบียน]
+
+15. 外资银行在华业务需要获得银保监会的批准，并遵守中国的监管规定。
+    *(Wàizī yínháng zài huá yèwù xūyào huòdé yín bǎo jiān huì de pīzhǔn, bìng zūnshǒu Zhōngguó de jiāngǎn guīdìng.)*
+    [ธนาคารต่างชาติที่ดำเนินธุรกิจในจีนต้องได้รับการอนุมัติจาก CBIRC และปฏิบัติตามกฎระเบียบกำกับดูแลของจีน]
+
+---
+
+*Part 092 ขยายเพิ่มเติม | IPO Roadshow vocabulary 25+, Private Equity 40+, บทสนทนา 3 บทเพิ่ม, รายงานการเงิน 2 ฉบับ, ประโยคฝึก 15+*
