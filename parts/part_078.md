@@ -558,5 +558,25 @@ Yāpiàn Zhànzhēng de gēnběn yuányīn shì Yīngguó gōngyè gémìng hòu
     Zǒngjié Zhōngguó jìn bǎi nián de fèndòu lìshǐ, kěyǐ déchū yī gè jiélùn: Méiyǒu Gòngchǎndǎng, jiù méiyǒu xīn Zhōngguó; méiyǒu gǎigé kāifàng, jiù méiyǒu jīnrì Zhōngguó de fánróng fùqiáng.
     (สรุปประวัติการต่อสู้เกือบร้อยปีของจีน สามารถสรุปได้ว่า ไม่มีพรรคคอมมิวนิสต์ก็ไม่มีจีนใหม่; ไม่มีการปฏิรูปและเปิดประตู ก็ไม่มีความเจริญรุ่งเรืองของจีนวันนี้)
 
-*Part 078 จบสมบูรณ์ | คำศัพท์ประวัติศาสตร์ 100+ คำ | บทสนทนา 12 บท | ประโยคฝึก 87+ ประโยค*
+18. 长城作为中国历史上最伟大的工程之一，不仅是一道军事防线，更是中华民族坚韧不拔、不屈不挠精神的象征。
+    Chángchéng zuòwéi Zhōngguó lìshǐ shàng zuì wěidà de gōngchéng zhī yī, bùjǐn shì yī dào jūnshì fánglíne, gèng shì Zhōnghuá mínzú jiānrèn bù bá, bù qū bù náo jīngshén de xiàngzhēng.
+    (กำแพงเมืองจีนในฐานะโครงการที่ยิ่งใหญ่ที่สุดแห่งหนึ่งในประวัติศาสตร์จีน ไม่เพียงเป็นแนวป้องกันทางทหาร แต่ยังเป็นสัญลักษณ์ของจิตวิญญาณความอดทนและไม่ยอมแพ้ของชนชาติจีน)
+
+19. 历史学家认为，郑和下西洋比哥伦布发现新大陆早了近一个世纪，但中国没有走上殖民主义道路，体现了中国文明的不同价值取向。
+    Lìshǐ xuéjiā rènwéi, Zhèng Hé xià Xīyáng bǐ Gēlúnbù fāxiàn xīn dàlù zǎo le jìn yī gè shìjì, dàn Zhōngguó méiyǒu zǒu shàng zhímín zhǔyì dàolù, tǐxiàn le Zhōngguó wénmíng de bùtóng jiàzhí qūxiàng.
+    (นักประวัติศาสตร์เชื่อว่า Zheng He เดินทางสู่ทะเลตะวันตกก่อน Columbus ค้นพบโลกใหม่เกือบหนึ่งศตวรรษ แต่จีนไม่ได้เดินบนเส้นทางลัทธิล่าอาณานิคม สะท้อนถึงทิศทางคุณค่าที่แตกต่างของอารยธรรมจีน)
+
+20. 汉朝的文景之治和唐朝的贞观之治，是中国历史上著名的盛世，都以休养生息、减轻赋税、任用贤才为核心政策，创造了社会经济的繁荣。
+    Hàn cháo de Wénjǐng zhī zhì hé Táng cháo de Zhēnguàn zhī zhì, shì Zhōngguó lìshǐ shàng zhùmíng de shèngshì, dōu yǐ xiūyǎng shēng xī, jiǎnqīng fùshuì, rènyòng xián cái wéi héxīn zhèngcè, chuàngzào le shèhuì jīngjì de fánróng.
+    (ยุครุ่งเรือง Wenjing ของราชวงศ์ฮั่นและยุค Zhenguan ของราชวงศ์ถัง เป็นยุคทองที่มีชื่อเสียงในประวัติศาสตร์จีน ใช้นโยบายหลักในการฟื้นฟูประชาชน ลดภาษี แต่งตั้งคนมีความสามารถ สร้างความเจริญรุ่งเรืองทางเศรษฐกิจและสังคม)
+
+21. 明朝末年，李自成农民起义推翻了明朝统治，随后满族八旗军趁势入关，建立清朝，开启了中国最后一个封建王朝长达267年的统治。
+    Míng cháo mò nián, Lǐ Zìchéng nóngmín qǐyì tuīfān le Míng cháo tǒngzhì, suíhòu Mǎnzú bā qí jūn chèn shì rù guān, jiànlì Qīng cháo, kāiqǐ le Zhōngguó zuìhòu yī gè fēngjiàn wángcháo chángdá 267 nián de tǒngzhì.
+    (ปลายราชวงศ์หมิง การลุกฮือชาวนาของ Li Zicheng โค่นล้มการปกครองหมิง จากนั้นกองทัพ Eight Banners Manchu ฉวยโอกาสเข้าผ่านด่าน ก่อตั้งราชวงศ์ชิง เปิดยุคการปกครองราชวงศ์ศักดินาสุดท้ายของจีนยาวนาน 267 ปี)
+
+22. 中国历史上的王朝兴衰给我们留下了深刻的启示：得民心者得天下。凡是善政爱民的朝代，往往能够国祚绵长；凡是暴政虐民的朝代，必然走向灭亡。
+    Zhōngguó lìshǐ shàng de wángcháo xīng shuāi gěi wǒmen liú xià le shēnkè de qǐshì: Dé mín xīn zhě dé tiānxià. Fán shì shàn zhèng ài mín de cháodài, wǎngwǎng néng gòu guó zuò miánchǎng; fán shì bào zhèng nüè mín de cháodài, bìrán zǒuxiàng mièwáng.
+    (การขึ้นลงของราชวงศ์ในประวัติศาสตร์จีนทิ้งบทเรียนลึกซึ้งไว้ว่า ผู้ที่ได้ใจประชาชนคือผู้ที่ได้แผ่นดิน ราชวงศ์ที่ปกครองดีรักประชา มักยืนยาว ราชวงศ์ที่กดขี่ทารุณประชา ต้องล่มสลาย)
+
+*Part 078 จบสมบูรณ์ | คำศัพท์ประวัติศาสตร์ 100+ คำ | บทสนทนา 12 บท | ประโยคฝึก 109+ ประโยค*
 *ต่อไป Part 079: ปรัชญาและจริยธรรมจีน*
